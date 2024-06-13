@@ -34,14 +34,14 @@ A Node.js project that scrapes articles from Spanish PDF documents using regular
     ```
 
 ## Usage
-1. **Place your PDF documents in the `pdfs` directory.**
+1. **Place your PDF documents in the `pdf_files` directory.**
 
 2. **Run the scraper:**
     ```bash
     npm run scrape
     ```
 
-3. **Check the output in the `output` directory.**
+3. **Check the output in the `output_json` directory.**
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
