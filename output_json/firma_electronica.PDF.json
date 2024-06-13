@@ -1,0 +1,2039 @@
+[
+    {
+        "number": "Art.  101",
+        "content": [
+            "de la Constitución de la República establece que el Estado debe promover el desarrollo",
+            "económico y social mediante el incremento de la producción, la productividad y la racional utilización",
+            "de  los  recursos.  En  consecuencia,  debe  crear  los  instrumentos  legales  que  propicien  el  uso  de",
+            "tecnologías de información y comunicaciones;"
+        ]
+    },
+    {
+        "number": "Art.  2",
+        "content": [
+            "de la Constitución de la República reconoce que toda persona tiene el derecho a la",
+            "seguridad jurídica; por lo que el Estado debe crear un marco legal que brinde seguridad a los usuarios",
+            "de las comunicaciones electrónicas y a las transacciones autorizadas mediante las aplicaciones de la",
+            "tecnología o la suscripción electrónica de las mismas, brindándoles validez jurídica;",
+            "III.  Que el desarrollo de las tecnologías de información y comunicación se ha convertido en un factor",
+            "estratégico  que  mejora  la  eficiencia  de  la  educación,  fomenta  la  competitividad  y  el  crecimiento",
+            "económico de los pueblos; asimismo, eleva la calidad de vida de los ciudadanos, al permitir la inclusión",
+            "de más personas al sistema productivo, razón por la cual nuestro país, por medio de la presente Ley,",
+            "pretende  promocionar  el  uso  de  tales  tecnologías  para  propiciar  el  dinamismo  y  el  desarrollo",
+            "económico, incorporándolo al entorno mundial en el que se producen interacciones seguras dentro de",
+            "la sociedad de la información.",
+            "",
+            "POR TANTO,",
+            "en  uso  de sus  facultades  constitucionales  y a iniciativa  del  Presidente de la  República,  por medio del",
+            "Ministro de Economía,",
+            "",
+            "DECRETA la siguiente:",
+            "",
+            "LEY DE FIRMA ELECTRÓNICA",
+            "",
+            "TITULO I",
+            "DISPOSICIONES GENERALES",
+            "",
+            "CAPITULO I",
+            "OBJETO Y ALCANCE",
+            "",
+            "Objeto"
+        ]
+    },
+    {
+        "number": "Art.  1.",
+        "content": [
+            "- Son objeto de la presente Ley tos siguientes: (1)",
+            "a)   Equiparar la firma electrónica simple y firma electrónica certificada con la firma autógrafa; (1)",
+            "b)   Otorgar y reconocer eficacia y valor jurídico a la firma electrónica certificada, sello electrónico, sello de",
+            "tiempo, documentos electrónicos y a los mensajes de datos; y, (1)",
+            "",
+            "",
+            "c) Regular y fiscalizar lo relativo a los proveedores de servicios de certificación, y a los proveedores de",
+            "servicios de almacenamiento de documentos electrónicos. (1)",
+            "",
+            "Neutralidad Tecnológica y equivalencia funcional"
+        ]
+    },
+    {
+        "number": "Art.  2.",
+        "content": [
+            "- Las regulaciones de la presente ley serán aplicables a la comunicación electrónica, firma electrónica",
+            "certificada y firma electrónica simple, o cualquier formato electrónico, independientemente de sus características",
+            "técnicas o de los desarrollos tecnológicos que se produzcan en el futuro; sus normas serán desarrolladas e",
+            "interpretadas  progresivamente,  siempre  que  se  encuentren  fundamentadas  en  la  neutralidad  tecnológica  y",
+            "equivalencia funcional.",
+            "",
+            "CAPÍTULO II",
+            "DEFINICIONES Y PRINCIPIOS GENERALES",
+            "",
+            "Definiciones"
+        ]
+    },
+    {
+        "number": "Art.  3.",
+        "content": [
+            "- Para los efectos de la aplicación de la presente ley, se utilizarán las siguientes definiciones: (1)",
+            "a)  Acreditación: Autorización que emite la Unidad de Firma Electrónica, a una persona jurídica, tras",
+            "demostrar que cumple satisfactoriamente los requisitos de acreditación a que debe someterse para la",
+            "prestación de los servicios de certificación y almacenamiento de documentos electrónicos. (1)",
+            "b)  Archivo  electrónico:  Solución  informática  que  permite  almacenar  de  forma  electrónica  los",
+            "documentos de una entidad para garantizar su disponibilidad, legibilidad y accesibilidad a largo plazo.",
+            "(1)",
+            "c)  Autenticación de sitio web: Proporciona un medio por el que puede garantizarse a la persona que",
+            "visita un sitio web, que existe una entidad auténtica y legítima que respalda la existencia de dicho sitio.",
+            "(1)",
+            "d)  Certificado  Electrónico:  Declaración  electrónica,  expedida  por  un  proveedor  de  servicios  de",
+            "certificación, que vincula los datos de validación de una firma electrónica certificada con una persona",
+            "natural o jurídica, los datos de validación de un sello electrónico con una persona jurídica, o un sitio",
+            "web con la persona natural o jurídica. (1)",
+            "e)  Creador de Sello: Persona jurídica que crea un sello electrónico. (1)",
+            "f)   Datos Personales: Cualquier información numérica, alfabética, gráfica o fotográfica o de cualquier",
+            "otro tipo, concerniente a personas naturales identificadas o identificables. (1)",
+            "g)  Desmaterialización:  Proceso  por  el  cual,  un  proveedor  de  servicios  de almacenamiento  de",
+            "documentos  electrónicos,  autorizado  por  la  Unidad  de  Firma  Electrónica,  transforma  documentos",
+            "físicos en documentos electrónicos. (1)",
+            "h)  Destinatario: La persona designada por el emisor, para recibir el mensaje de datos o documento",
+            "electrónico, pero que no esté actuando a título de intermediario con respecto ha dicho mensaje o",
+            "documento. (1)",
+            "i)   Dispositivo seguro de creación: Un equipo o programa informático configurado, que se utiliza para",
+            "crear una firma electrónica certificada o sello electrónico. (1)",
+            "j)   Documento  Electrónico:  Información  de  cualquier  naturaleza,  contenida  en soporte  electrónico,",
+            "según un formato determinado. (1)",
+            "k)  Firma Autógrafa: Marca o signo que una persona escribe de su propia mano en un documento, para",
+            "asegurar  o  autenticar  su  propia  identidad,  como  prueba  del  consentimiento  sobre  la  información",
+            "contenida en dicho documento. (1)",
+            "",
+            "",
+            "l)   Firma Electrónica Simple: Son datos en forma electrónica, consignados en un mensaje de datos o",
+            "documento electrónico, lógicamente asociados al mismo, que puedan ser utilizados para identificar al",
+            "firmante por cualquier medio tecnológico disponible, e indicar que el firmante aprueba la información",
+            "recogida en el mensaje de datos o documento electrónico. (1)",
+            "m)  Firma Electrónica Certificada: Son los datos en forma electrónica, consignados en un mensaje de",
+            "datos o documento electrónico, lógicamente asociados al mismo, que son generados mediante un",
+            "dispositivo seguro de creación y permiten vincular de manera exclusiva, la firma con su titular. (1)",
+            "n)  Firmante o signatario: Persona natural que crea una firma electrónica. (1)",
+            "o)  Iniciador  de  un  Mensaje de  Datos:  Se  entenderá  toda  persona  que,  a  tenor  del  mensaje,  haya",
+            "actuado por su cuenta para enviar o generar ese mensaje antes de ser archivado, si éste es el caso,",
+            "pero que no haya actuado a título de intermediario con respecto a él. (1)",
+            "p)  Mensaje  de  Datos:  La  información  generada,  enviada,  recibida  o  archivada  a  través  de  medios",
+            "electrónicos o similares, que puede contener documentos electrónicos. (1)",
+            "q)  Proveedor  de  Servicios  de  Certificación:  Persona  jurídica  acreditada  por  la  Unidad  de  Firma",
+            "Electrónica, para prestar los servicios de certificación, en la modalidad de Firma Electrónica Certificada,",
+            "Sello Electrónico, Sello de Tiempo o Autenticación de Sitio Web. (1)",
+            "r)   Proveedor  de  Servicios  de  Almacenamiento  de  Documentos  Electrónicos: Persona  jurídica",
+            "acreditada  por  la  Unidad  de  Firma  Electrónica,  para  prestar  los  servicios  de  almacenamiento  de",
+            "documentos electrónicos. (1)",
+            "s)  Sello  electrónico:  Son  los  datos  en  forma  electrónica,  consignados  en  un  mensaje  de  datos  o",
+            "documento  electrónico,  generados  mediante  un  dispositivo  seguro  de  creación,  que  garantizan  el",
+            "origen y la integridad de estos, asociados inequívocamente al titular del certificado electrónico. (1)",
+            "t)   Sello de Tiempo: Mecanismo que aporta certeza sobre la integridad del documento electrónico o",
+            "mensaje de datos, asignando una fecha y hora que permiten demostrar que, una serie de datos de",
+            "carácter electrónico han existido, no han sido alterados a partir de un instante específico en el tiempo.",
+            "(1)",
+            "u)  Titular: Es la persona a cuyo favor le fue expedido un certificado electrónico de firma electrónica",
+            "certificada, sello electrónico, sello de tiempo o autenticación de sitio web. (1)",
+            "",
+            "Principios generales"
+        ]
+    },
+    {
+        "number": "Art.  4.",
+        "content": [
+            "- Las actividades reguladas por esta ley se regirán bajo los siguientes principios: (1)",
+            "a)   Autenticidad,  con  el  cual  se  garantiza  que  la  información  contenida  en  el  mensaje  de  datos  o",
+            "documento electrónico es confiable, si se encuentra suscrito con firma electrónica certificada, sello",
+            "electrónico y sello de tiempo, y esta garantía perdura a través del tiempo; (1)",
+            "b)   Integridad, por el cual se otorga certeza de que la información contenida en medios electrónicos, no",
+            "ha sido modificada desde el momento en que se coloca la firma electrónica certificada, sello electrónico",
+            "o sello de tiempo, o desde el momento en que se desmaterializa un documento; (1)",
+            "c)   Confidencialidad, por medio del cual se garantiza a los usuarios, que la información proporcionada a",
+            "los proveedores de servicios no será conocida por terceras personas, sin su expresa autorización; (1)",
+            "d)   Equivalencia Funcional, consiste en observar en los documentos archivados y comunicados de manera",
+            "electrónica,  aquellos  requisitos  que  son  exigidos  en  los  documentos  presentados  por  escrito  y",
+            "consignados en papel, con el fin de determinar la manera de satisfacer sus objetivos y funciones; (1)",
+            "e)   No  Repudiación,  por medio  del  cual se  garantiza que  cuando  un  mensaje de  datos  o documento",
+            "electrónico ha sido suscrito con firma electrónica certificada, sello electrónico o sello de tiempo, de",
+            "conformidad a lo establecido en la presente ley, no puede ser repudiada su autoría por el titular; (1)",
+            "",
+            "",
+            "f)   Neutralidad  tecnológica,  sustenta  la  no  discriminación  entre  tecnologías,  en  la  medida  que  ellas",
+            "consistan en medios seguros a través de los cuales sea posible dar cumplimiento a las funciones que",
+            "le impone la ley; (1)",
+            "g)   Seguridad, la certeza y legalidad que la persona titular del certificado, ha sido debidamente identificada,",
+            "garantizando la disponibilidad, integridad, confidencialidad, autenticación, no repudio y buen uso de la",
+            "información que reside en un sistema informático; (1)",
+            "h)   Inalterabilidad  del  derecho  preexistente,  la  aplicación  de  los  principios  y  regulaciones  de  la  firma",
+            "electrónica, no implican una modificación sustancial del derecho existente que regula las relaciones",
+            "jurídicas de cada materia en especial. (1)",
+            "",
+            "Reglas para el tratamiento de Datos Personales"
+        ]
+    },
+    {
+        "number": "Art.  5.",
+        "content": [
+            "- El tratamiento de los datos personales que precisen los prestadores de servicios de certificación y",
+            "los  prestadores  de  servicio  de  almacenamiento  de  documentos  electrónicos  para  el  desarrollo  de  dichas",
+            "actividades, se sujetarán a las siguientes reglas:",
+            "a)   Para la expedición de certificados electrónicos al público y para el almacenamiento de documentos",
+            "electrónicos, los prestadores de servicios únicamente podrán recabar datos personales directamente",
+            "de los firmantes. Se prohíbe que se cedan los datos personales de los usuarios.",
+            "b)   Los datos requeridos serán exclusivamente los necesarios para la expedición y el mantenimiento del",
+            "certificado electrónico y la prestación de servicios en relación con la firma electrónica certificada. El",
+            "titular  podrá  solicitar  la  rectificación  o  cancelación  de  los  datos  personales,  cuando  éstos  fueren",
+            "inexactos o incompletos.",
+            "c)   El responsable del registro de datos y quienes intervengan en cualquier fase del tratamiento de los",
+            "datos  de  carácter  personal,  estarán  obligados  a  la confidencialidad  de  los  mismos  y  al  deber  de",
+            "guardarlos. Obligaciones que subsistirán aún después de finalizar sus relaciones con el responsable",
+            "del registro de datos.",
+            "",
+            "CAPITULO III",
+            "EQUIVALENCIA Y VALOR JURÍDICO DE LA FIRMA ELECTRÓNICA",
+            "",
+            "Equivalencia y valor jurídico de la Firma Electrónica Simple"
+        ]
+    },
+    {
+        "number": "Art.  6.",
+        "content": [
+            "- La firma electrónica simple tendrá la misma validez jurídica que la firma autógrafa. En cuanto a sus",
+            "efectos  jurídicos,  la  firma  electrónica  simple  no  tendrá  validez  probatoria  en  los  mismos  términos  a  los",
+            "concedidos por esta ley a la firma electrónica certificada; sin embargo, podrá constituir un elemento de prueba",
+            "conforme a las reglas de la sana crítica. (1)",
+            "",
+            "TITULO II",
+            "MENSAJES DE DATOS Y DOCUMENTOS ELECTRÓNICOS",
+            "",
+            "CAPITULO I",
+            "DISPOSICIONES GENERALES",
+            "",
+            "Equivalencia Funcional de los Mensajes de Datos y Documentos Electrónicos (1)",
+            "",
+            ""
+        ]
+    },
+    {
+        "number": "Art.  7.",
+        "content": [
+            "- Los actos y contratos otorgados o celebrados por personas naturales o jurídicas, suscritos por medio",
+            "de firma electrónica, serán válidos de la misma manera y producirán los mismos efectos que los celebrados por",
+            "escrito y en soporte de papel. Dichos actos y contratos se reputarán como escritos, en los casos en que la ley",
+            "exija que los mismos consten de ese modo. (1)",
+            "Lo  dispuesto  en  este  artículo  no  será  aplicable,  para  aquellos  actos  o  contratos  que,  para  su",
+            "perfeccionamiento,  requieran  formalidades  y  solemnidades  especiales  que  no  puedan  cumplirse  de  forma",
+            "electrónica. (1)",
+            "",
+            "Valor probatorio de los Mensajes de Datos y Documentos Electrónicos (1)"
+        ]
+    },
+    {
+        "number": "Art.  8.",
+        "content": [
+            "- Los mensajes de datos y documentos electrónicos, tendrán la eficacia jurídica que corresponda a",
+            "su respectiva naturaleza, de conformidad con la legislación que les resulte aplicable. (1)",
+            "Los mensajes de datos y documentos electrónicos podrán presentarse en el marco de un procedimiento",
+            "administrativo o proceso judicial y, en el evento de que se hagan valer como medio de prueba, habrán de",
+            "seguirse las reglas siguientes: (1)",
+            "1.   Los  que  posean  la  calidad  de  documentos  públicos  y  hayan  sido  suscritos  con  firma  electrónica",
+            "certificada, o sellados con un sello electrónico que cumpla los requisitos previstos en esta ley, harán",
+            "plena prueba de acuerdo con las reglas del Código Procesal Civil y Mercantil; (1)",
+            "2.   Los que posean la calidad de documento privado, en cuanto hayan sido suscritos con firma electrónica",
+            "certificada o sellados con un sello electrónico que cumpla los requisitos previstos en esta ley, tendrán",
+            "la calidad de documentos privados fehacientes, y tendrán el mismo valor probatorio señalado en el",
+            "numeral anterior; y; (1)",
+            "3.   En el caso de los mensajes de datos o documentos electrónicos suscritos con firma electrónica simple",
+            "o sellados con un sello electrónico que no cumpla los requisitos previstos por esta ley, tendrán el valor"
+        ]
+    },
+    {
+        "number": "artículo  6",
+        "content": [
+            "o en el",
+            "(1)",
+            "Los  mensajes  de  datos  y  documentos  electrónicos,  almacenados  en  proveedores  de  servicios  de",
+            "almacenamiento de documentos electrónicos, debidamente acreditados por la Unidad de Firma Electrónica,",
+            "gozarán de las presunciones de conservación e integridad de la información contenida en ellos. Los documentos",
+            "desmaterializados  y  almacenados  en  este  tipo  de  proveedores,  gozarán  de  las  presunciones  antes",
+            "mencionadas, tendrán la calidad de documentos electrónicos y la equivalencia funcional que esta ley le otorga",
+            "a los mismos. En cuanto a su valor probatorio, estarán sujetos a las reglas mencionadas en el presente artículo.",
+            "(1)",
+            "",
+            "Documentos públicos emitidos en soportes electrónicos"
+        ]
+    },
+    {
+        "number": "Art.  9.",
+        "content": [
+            "- DEROGADO. (1)",
+            "",
+            "Valor probatorio de los documentos privados electrónicos"
+        ]
+    },
+    {
+        "number": "Art.  10.",
+        "content": [
+            "- DEROGADO. (1)",
+            "",
+            "Conservación de Documentos Electrónicos (1)"
+        ]
+    },
+    {
+        "number": "Art.  11.",
+        "content": [
+            "-  Si  de  acuerdo  al  acto  jurídico  o  por  disposiciones  del  ordenamiento  legal,  se  exige  que  la",
+            "información o el documento sea conservado por un período determinado de tiempo, se entenderá que dicha",
+            "exigencia se cumple, si se conserva en un proveedor de almacenamiento de documentos electrónicos. (1)",
+            "",
+            "",
+            "En cuanto a la conservación realizada por cuenta propia, se tendrá por cumplida la exigencia mencionada",
+            "en el inciso anterior, cuando se cumplan los requisitos mínimos para la conservación de documentos, previstos"
+        ]
+    },
+    {
+        "number": "artículo  13-",
+        "content": [
+            "A de esta ley. (1)",
+            "Los documentos electrónicos desmaterializados podrán ser presentados en su soporte físico, en caso de",
+            "destrucción, ilegibilidad, alteración, o pérdida de autenticidad o integridad del documento electrónico. (1)",
+            "",
+            "Tipos de Almacenadores de Documentos Electrónicos (1)"
+        ]
+    },
+    {
+        "number": "Art.  12.",
+        "content": [
+            "-  El  almacenamiento  de  documentos  electrónicos  podrá  llevarse  a  través  de  proveedores  de",
+            "almacenamiento de documentos electrónicos o por cuenta propia. (1)",
+            "Toda persona jurídica, nacional o extranjera, que realice almacenamiento de documentos electrónicos de",
+            "terceros, deberá acreditarse como prestador de servicios de almacenamiento de documentos electrónicos ante"
+        ]
+    },
+    {
+        "number": "artículo  53",
+        "content": [
+            "de la presente",
+            "ley. (1)",
+            "Las  personas  naturales  o  jurídicas,  nacionales  o  extranjeras  que  realicen  almacenamiento  por  cuenta",
+            "propia, no tendrán la obligación de acreditarse ante la Unidad de Firma Electrónica, sin embargo, no podrán",
+            "realizar las siguientes funciones: (1)",
+            "a)   Ofrecer  servicios  de  procesamiento  y  almacenamiento  de  mensajes  de  datos  y  documentos",
+            "electrónicos de terceros; (1)",
+            "b)   Ofrecer servicios de archivos y conservación de mensajes de datos y documentos electrónicos de",
+            "terceros; (1)",
+            "c)   Desmaterialización de documentos físicos; (1)",
+            "d)   Reconocimiento de documentos electrónicos almacenados en el extranjero; y, (1)",
+            "e)   Ofrecer servicios de certificación de mensajes de datos o documentos electrónicos de terceros. (1)",
+            "Los mensajes de datos o documentos electrónicos, almacenados en contravención de lo dispuesto en el",
+            "presente artículo, carecerán de cualquier efecto jurídico. (1)",
+            "",
+            "Conservación de Mensajes de Datos (1)"
+        ]
+    },
+    {
+        "number": "Art.  13.",
+        "content": [
+            "- Si la ley exige que la información contenida en un mensaje de datos conste por escrito y que sea",
+            "conservada por un período determinado de tiempo, ese requisito se dará por cumplido si la información que",
+            "contiene el mensaje de datos, se conserva en un proveedor de almacenamiento de documentos electrónicos.",
+            "(1)",
+            "En cuanto a la conservación realizada por cuenta propia, se tendrá por cumplida la exigencia mencionada",
+            "en el inciso anterior, cuando se cumplan los requisitos mínimos para la conservación de mensajes de datos,"
+        ]
+    },
+    {
+        "number": "artículo  13-",
+        "content": [
+            "A de esta ley. (1)",
+            "",
+            "Requisitos mínimos para la Conservación de Documentos Electrónicos y Mensajes de Datos (1)"
+        ]
+    },
+    {
+        "number": "Art.  13-",
+        "content": [
+            "A.- Cuando la ley exige que ciertos actos o negocios jurídicos consten por escrito y que su soporte",
+            "permanezca accesible, conservado o archivado por un período determinado de tiempo, éstos estarán sujetos a",
+            "las disposiciones legales pertinentes, estableciéndose mediante un archivo electrónico, que cumpla con los",
+            "siguientes requisitos mínimos: (1)",
+            "a)   Que la información que contenga pueda ser consultada en cualquier momento; (1)",
+            "b)   Que se garantice la conservación del formato en que se generó, archivó o recibió, o en algún formato",
+            "que sea demostrable que reproduce con exactitud la información generada o recibida; y, (1)",
+            "",
+            "",
+            "c)   Que se mantenga integro, legible, completo y sin alteraciones. (1)",
+            "",
+            "Garantías mínimas que debe cumplir el sistema de almacenamiento de documentos electrónicos."
+        ]
+    },
+    {
+        "number": "Art.  14.",
+        "content": [
+            "- Al someterse el documento a almacenamiento electrónico, éste deberá quedar conservado en un",
+            "medio  adecuado.  El  procedimiento  utilizado  para  el almacenamiento  de  documentos  electrónicos  deberá",
+            "garantizar: (1)",
+            "a)   Que  los  documentos  electrónicos  queden  almacenados  en  forma  legible,  íntegra,  segura  y  con",
+            "absoluta autenticidad; (1)",
+            "b)   Que pueda determinarse con precisión fa fecha y la hora en las que un documento fue almacenado",
+            "electrónicamente; (1)",
+            "c)   La recuperación del documento electrónico; y, (1)",
+            "d)   Que  cumple  con  los  reglamentos  técnicos  y  normativas  establecidas  por  la  Unidad  de  Firma",
+            "Electrónica. (1)",
+            "La omisión de cualquiera de estos requisitos, así como la alteración o adulteración que afecten la integridad",
+            "del documento electrónico en el que la información ha sido almacenada, harán perder el valor legal que esta",
+            "ley otorga a los documentos almacenados electrónicamente. (1)",
+            "",
+            "Declaración de Prácticas y Políticas de Almacenamiento de Documentos Electrónicos. (1)"
+        ]
+    },
+    {
+        "number": "Art.  15.",
+        "content": [
+            "-  Todo  proveedor  que  realice  el  almacenamiento  de  documentos  electrónicos  para  terceros,",
+            "redactará una declaración de prácticas de almacenamiento de documentos electrónicos, en la que detallará,",
+            "dentro del marco de esta ley y de su reglamento, la siguiente información: (1)",
+            "a)   Las  obligaciones  que  se  comprometen  a  cumplir  en  relación  con  la  gestión  de  documentos",
+            "almacenados electrónicamente; (1)",
+            "b)   El detalle de los servicios que fueron autorizados a prestar por la Unidad de Firma Electrónica, de",
+            "acuerdo a lo previsto en el reglamento técnico correspondiente; (1)",
+            "c)   Las condiciones aplicables para garantizar la seguridad, almacenamiento, confidencialidad, formato,",
+            "acceso,  intercambio  de  documentos  electrónicos,  desmaterialización,  legibilidad,  integridad,",
+            "autenticidad, traspaso de usuarios y documentos a otros proveedores acreditados y cualquier otro",
+            "requisito previsto en otras leyes; (1)",
+            "d)   Las medidas de seguridad técnica, física, lógica y organizativa; (1)",
+            "e)   Los mecanismos de verificación del estado y acceso al documento electrónico; (1)",
+            "f)   Los  mecanismos  de  notificación  sobre  el  cese  de actividad,  términos  y  condiciones,  traspaso  de",
+            "usuarios  a  otro  proveedor,  vigencia  de  los  servicios  y  cualquier  otra  actividad  que  requiera  ser",
+            "notificada al usuario; (1)",
+            "g)   Los límites de responsabilidad para realizar el almacenamiento de documentos electrónicos; (1)",
+            "h)   La lista de normas y procedimientos de almacenamiento de documentos electrónicos; y, (1)",
+            "i)   Cualquier otra información que la Unidad de Firma Electrónica solicite mediante normas y reglamentos",
+            "técnicos. (1)",
+            "La  declaración  de  prácticas  y  políticas  de  almacenamiento  de  documentos  electrónicos  serán",
+            "proporcionadas a la Unidad de Firma Electrónica para su aprobación, y deberá ser accesible al público por vía",
+            "electrónica o por cualquier otro medio, y de forma gratuita. (1)",
+            "",
+            "",
+            "",
+            "Certificación de documentos electrónicos"
+        ]
+    },
+    {
+        "number": "Art.  16.",
+        "content": [
+            "-  Las  reproducciones  provenientes  de  cualquier  tipo  de  tecnología,  microfichas,  discos  o",
+            "certificaciones que resultaren de la utilización de algún sistema de almacenamiento de documentos electrónicos",
+            "permitido por esta ley, podrán ser certificados por la persona responsable nombrada por la institución pública o",
+            "privada en la que se encuentre almacenado el documento electrónico. (1)",
+            "",
+            "Reconocimiento de documentos almacenados en el extranjero"
+        ]
+    },
+    {
+        "number": "Art.  17.",
+        "content": [
+            "-  Los  documentos  electrónicos  almacenados  por  un  prestador  de  servicio  de  almacenamiento",
+            "extranjero que brinde los servicios de almacenamiento de documentos electrónicos, podrán ser reconocidos en",
+            "los mismos términos y condiciones exigidos por esta ley cuando sean avalados por un prestador de servicio de",
+            "almacenamiento de documentos electrónicos nacional previamente autorizado por la autoridad competente.",
+            "",
+            "Supervisión y Control"
+        ]
+    },
+    {
+        "number": "Art.  18.",
+        "content": [
+            "- Todo prestador de servicios de almacenamiento de documentos electrónicos que brinde servicios",
+            "a terceros, quedará sujeto a las facultades de supervisión y control de la Unidad de Firma Electrónica de la",
+            "autoridad competente para los efectos de velar por el cumplimiento de las obligaciones correspondientes que",
+            "establece esta ley y su reglamento, y normas y reglamentos técnicos emitidos al efecto.",
+            "",
+            "CAPÍTULO II",
+            "DE LA EMISIÓN Y RECEPCIÓN DE LOS MENSAJES DE DATOS",
+            "",
+            "Verificación de la emisión del Mensaje de Datos."
+        ]
+    },
+    {
+        "number": "Art.  19.",
+        "content": [
+            "- Se entenderá que un mensaje de datos proviene del iniciador, cuando éste ha sido enviado por:",
+            "a)   El propio iniciador o la persona que lo representa, cuando en el documento conste su firma electrónica",
+            "certificada.",
+            "b)   Por un sistema de información programado por el iniciador o bajo su autorización para que opere",
+            "automáticamente, cuando en el documento conste su firma electrónica simple o certificada.",
+            "",
+            "Reglas para la determinación del recibo del mensaje."
+        ]
+    },
+    {
+        "number": "Art.  20.",
+        "content": [
+            "- Se presumirá el recibo del mensaje, cuando se comprobare su recibo por el sistema de recepción,",
+            "y tendrá lugar cuando el mensaje de datos ingrese al repositorio del destinatario, y se encontrase a disposición",
+            "de éste para su acceso.",
+            "",
+            "Lugar de emisión y recepción."
+        ]
+    },
+    {
+        "number": "Art.  21.",
+        "content": [
+            "- De no convenir otra cosa el iniciador y el destinatario, el mensaje de datos se tendrá por expedido",
+            "en el lugar donde el iniciador tenga su domicilio, y por recibido en el lugar donde el destinatario tenga el suyo;",
+            "y si no hubiere, se aplicará el domicilio que conste en el registro del proveedor de servicios de certificación, y",
+            "en su defecto, el designado por el derecho común.",
+            "",
+            "Del acuse de recibo.",
+            "",
+            ""
+        ]
+    },
+    {
+        "number": "Art.  22.",
+        "content": [
+            "- Si al enviar o antes de enviar un mensaje de datos, el iniciador solicita o acuerda con el destinatario",
+            "que se acuse recibo del mensaje de datos, pero no se ha acordado entre éstos una forma o método determinado",
+            "para efectuarlo, se podrá acusar recibo mediante:",
+            "a)   Toda comunicación del destinatario, automatizada o no;",
+            "b)   Todo acto del destinatario, que baste para indicar al iniciador que se ha recibido el mensaje de datos.",
+            "Si el iniciador ha solicitado o acordado con el destinatario que se acuse recibo del mensaje de datos, y",
+            "expresamente aquél ha indicado que los efectos del mensaje de datos estarán condicionados a la recepción de",
+            "un acuse de recibo, se considerará que el mensaje de datos no ha sido enviado, en tanto que no se haya",
+            "recibido el acuse de recibo.",
+            "",
+            "TÍTULO III",
+            "FIRMA ELECTRÓNICA CERTIFICADA, SELLO ELECTRÓNICO, SELLO DE TIEMPO, AUTENTICACIÓN",
+            "DE SITIO WEB, CERTIFICADOS ELECTRÓNICOS Y DOCUMENTOS ELECTRÓNICOS. (1)",
+            "",
+            "CAPÍTULO I",
+            "DISPOSICIONES GENERALES",
+            "",
+            "Requisitos para la Firma Electrónica Certificada (1)"
+        ]
+    },
+    {
+        "number": "Art.  23.",
+        "content": [
+            "- La firma electrónica certificada deberá de cumplir los siguientes requisitos: (1)",
+            "a)   Vincular al firmante, de manera única; (1)",
+            "b)   Estar basado en un certificado electrónico emitido por un Proveedor de Servicios de Certificación; (1)",
+            "c)   Permitir la verificación inequívoca de la autoría e identidad del signatario; (1)",
+            "d)   Haber  sido  creada  utilizando medios  de  creación y  verificación confiable  y  seguro,  bajo  el  control",
+            "exclusivo del signatario; (1)",
+            "e)   Estar vinculada con la información de modo tal que cualquier modificación ulterior de los mismos sea",
+            "detectable; (1)",
+            "f)   Los certificados electrónicos emitidos para firma electrónica certificada cumplirán los requisitos del"
+        ]
+    },
+    {
+        "number": "artículo  58",
+        "content": [
+            ", de la presente ley. (1)",
+            "",
+            "Requisitos para el Sello Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  23-",
+        "content": [
+            "A.- El sello electrónico deberá de cumplir los siguientes requisitos: (1)",
+            "a)   Vincular al creador de sello, de manera única; (1)",
+            "b)   Estar basado en un certificado electrónico emitido por un Proveedor de Servicios de Certificación; (1)",
+            "c)   Permitir la verificación inequívoca de la autoría e identidad del creador de sello; (1)",
+            "d)   Haber sido creado utilizando un método de creación y verificación confiable y seguro, bajo el control",
+            "exclusivo del signatario; (1)",
+            "e)   Estar vinculado con la información de modo tal que cualquier modificación ulterior de los mismos sea",
+            "detectable; y, (1)"
+        ]
+    },
+    {
+        "number": "artículo  58",
+        "content": [
+            ", de",
+            "la presente ley, (1)",
+            "",
+            "",
+            "",
+            "Requisitos para el Sello de Tiempo (1)"
+        ]
+    },
+    {
+        "number": "Art.  23-",
+        "content": [
+            "B.- El sello de tiempo deberá de cumplir los siguientes requisitos: (1)",
+            "a)   Vincular la fecha y hora con la información de forma que se elimine la posibilidad de modificar los datos",
+            "sin que se detecte; (1)",
+            "b)   Estar basado en un certificado electrónico emitido por un Proveedor de Servicios de Certificación; (1)",
+            "c)   Basarse en una fuente de información temporal vinculada al Tiempo Universal Coordinado; y, (1)"
+        ]
+    },
+    {
+        "number": "artículo  58",
+        "content": [
+            ", de",
+            "la presente ley. (1)",
+            "",
+            "Requisitos para la Autenticación de Sitios Web (1)"
+        ]
+    },
+    {
+        "number": "Art.  23-",
+        "content": [
+            "C.- La autenticación de sitios web deberá cumplir los siguientes requisitos: (1)",
+            "a)   Vincular al sitio web con la persona natural o jurídica, de manera única; (1)",
+            "b)   Permitir la verificación inequívoca de la autoría e identidad del propietario del sitio web; y (1)",
+            "c)   Los certificados electrónicos emitidos para la autenticación de sitios web cumplirán los requisitos del"
+        ]
+    },
+    {
+        "number": "artículo  58",
+        "content": [
+            ", de la presente ley. (1)",
+            "",
+            "Efectos Jurídicos Probatorios de la Firma Electrónica Certificada (1)"
+        ]
+    },
+    {
+        "number": "Art.  24.",
+        "content": [
+            "- La firma electrónica certificada tendrá igual validez y los mismos efectos jurídicos y probatorios",
+            "que  una  firma  manuscrita  en  relación  con  los  datos consignados  en  un  documento  o  mensaje  de  datos",
+            "electrónicos en que fuere empleada.",
+            "En  todo  caso,  al  valorar  la  fuerza  probatoria  de  un  documento  electrónico,  se  tendrá  presente  la",
+            "confiabilidad de la forma en la que se haya generado, archivado, comunicado, y en la que se haya conservado",
+            "la integridad de la información.",
+            "",
+            "Presunciones del empleo de la firma electrónica certificada."
+        ]
+    },
+    {
+        "number": "Art.  25.",
+        "content": [
+            "- El empleo de la firma electrónica certificada que cumpla los requisitos exigidos en la presente ley,",
+            "salvo prueba en contrario, presume lo siguiente: (1)",
+            "a)   Que la firma electrónica certificada pertenece al titular del certificado electrónico; y, (1)",
+            "b)   Que la firma electrónica certificada vinculada al documento electrónico o mensaje de datos no ha sido",
+            "modificada desde el momento de su firma, si el resultado del procedimiento de verificación así lo indica.",
+            "(1)",
+            "",
+            "Efectos Jurídicos del Sello Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  25-",
+        "content": [
+            "A.-  El  sello electrónico  que cumpla  los  requisitos exigidos  en  la presente ley, salvo  prueba  en",
+            "contrario, tendrá la presunción de integridad y exactitud del origen de los datos a los que esté vinculado; en",
+            "cuanto a su valor probatorio, servirá como un medio de prueba que aporte certeza sobre el origen y la integridad",
+            "de la información contenida en el mensaje de datos o documento electrónico. (1)"
+        ]
+    },
+    {
+        "number": "artículo  23-",
+        "content": [
+            "A,  no  tendrá  validez",
+            "probatoria en los mismos términos a los concedidos por esta ley a los sellos electrónicos basados en certificados",
+            "",
+            "",
+            "emitidos por un Proveedor de Servicios de Certificación; sin embargo, podrán constituir un elemento de prueba",
+            "conforme a las reglas de la sana crítica. (1)",
+            "",
+            "Efectos Jurídicos del Sello de Tiempo (1)"
+        ]
+    },
+    {
+        "number": "Art.  25-",
+        "content": [
+            "B.-  El  sello de  tiempo,  que cumpla los  requisitos  exigidos  en la  presente  ley,  salvo  prueba  en",
+            "contrario, tendrá una presunción de exactitud de la fecha y hora que indica, así como de la integridad de los",
+            "datos a los que la fecha y hora estén vinculadas; en cuanto a su valor probatorio, servirá como un medio de",
+            "prueba de que los datos a los que está asociado dicho sello, existían al momento de creación del mismo y que",
+            "no se han modificado posteriormente. (1)"
+        ]
+    },
+    {
+        "number": "artículo  23-",
+        "content": [
+            "B, no tendrá validez probatoria",
+            "en los mismos términos a los concedidos por esta ley a los sellos de tiempo emitidos por un Proveedor de",
+            "Servicios de Certificación; sin embargo, podrán constituir un elemento de prueba conforme a las reglas de la",
+            "sana critica. (1)",
+            "",
+            "Inhabilitación en el uso de firma electrónica certificada."
+        ]
+    },
+    {
+        "number": "Art.  26.",
+        "content": [
+            "- No podrán solicitar certificados electrónicos y hacer uso de la firma electrónica certificada, los",
+            "menores de edad y los incapaces declarados conforme a las reglas del derecho común, y los privados de libertad",
+            "condenados en sentencia firme. (1)",
+            "Lo anterior, sin perjuicio de lo dispuesto en las leyes especiales pertinentes. (1)",
+            "",
+            "Inhabilitación en el Uso de Sello Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  26-",
+        "content": [
+            "A.-  No  podrán  solicitar  certificados  electrónicos  de  sellos  electrónicos  y  hacer  uso  del  sello",
+            "electrónico, las uniones y entidades que no cumplan los requisitos legalmente establecidos para constituirse",
+            "como personas jurídicas. (1)",
+            "",
+            "Solicitud para el Uso de la Firma Electrónica Certificada por Representantes de Personas Naturales (1)"
+        ]
+    },
+    {
+        "number": "Art.  27.",
+        "content": [
+            "- Para los mandatarios de las personas naturales, sólo se utilizará la firma electrónica certificada de",
+            "aquellos, previa verificación de tal calidad por parte del proveedor de servicios de certificación, a través de la",
+            "presentación de los documentos legales pertinentes de conformidad al ordenamiento jurídico y poder suficiente",
+            "que acrediten tal calidad, circunstancia que deberá constar en el certificado electrónico que se le extienda, así",
+            "como los límites de sus facultades. (1)",
+            "La custodia de los datos de creación de firma, y el uso de estos a través de los métodos de autenticación",
+            "habilitados para tales efectos, será responsabilidad del representante de la persona natural titular del certificado",
+            "electrónico, cuya identificación se incluirá en el mismo. (1)",
+            "",
+            "Solicitud para el Uso del Sello Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  28.",
+        "content": [
+            "-  Los  certificados  electrónicos  de  sello  electrónico  serán  utilizados  únicamente  por  personas",
+            "jurídicas y deberán ser solicitados por quienes ejerzan su representación, de acuerdo a la legislación pertinente.",
+            "(1)",
+            "La persona jurídica conforme a la legislación aplicable a su naturaleza y constitución, podrá imponer los",
+            "límites que considere para el uso de los datos de creación de su sello. Estos límites deberán figurar en el",
+            "certificado electrónico. (1)",
+            "",
+            "",
+            "",
+            "Solicitud para el Uso del Sello de Tiempo o Autenticación de Sitio Web (1)"
+        ]
+    },
+    {
+        "number": "Art.  28-",
+        "content": [
+            "A.- El sello de tiempo o la autenticación de sitio web podrá ser utilizado por personas naturales y",
+            "jurídicas, y deberá ser solicitado por quienes ejerzan su representación, de acuerdo a la legislación pertinente.",
+            "(1)",
+            "",
+            "CAPÍTULO II",
+            "USO DE LA FIRMA ELECTRÓNICA, SELLO ELECTRÓNICO Y SELLO DE TIEMPO POR LOS ÓRGANOS",
+            "DE GOBIERNO (1)",
+            "",
+            "Uso de firma electrónica simple."
+        ]
+    },
+    {
+        "number": "Art.  29.",
+        "content": [
+            "- Las autoridades, funcionarios y empleados del Estado que presten servicios públicos, ejecuten o",
+            "realicen actos dentro de su ámbito de competencia, podrán suscribirlos por medio de firma electrónica simple.",
+            "",
+            "Uso de Firma electrónica certificada."
+        ]
+    },
+    {
+        "number": "Art.  30.",
+        "content": [
+            "- En aquellos casos en que los funcionarios o empleados del Estado expidan cualquier documento",
+            "o  realicen  actos  administrativos  en  que  se  otorguen  derechos,  sancionen,  o  constituyan  información"
+        ]
+    },
+    {
+        "number": "artículo  24",
+        "content": [
+            "de  la  Ley  de  Acceso  a  la  Información  Pública  a  los",
+            "administrados, será necesario utilizar firma electrónica certificada. El proveedor de servicios de certificación",
+            "deberá consignar en el certificado la calidad con la que firmará electrónicamente, así como los límites de su",
+            "competencia. (1)",
+            "Se  exceptúan  del  uso  de  la  firma  electrónica  certificada,  en  aquellas  actuaciones  para  las  cuales  la",
+            "Constitución de la República o tas leyes exijan alguna solemnidad que no sea susceptible de cumplirse mediante",
+            "documentos electrónicos. (1)",
+            "En cuanto al sello electrónico y sello de tiempo, los funcionarios o empleados del Estado, y en general las",
+            "distintas instituciones públicas, podrán utilizarlos, en atención a la naturaleza de la actuación a realizar. (1)",
+            "",
+            "Validez de Actos y Contratos"
+        ]
+    },
+    {
+        "number": "Art.  31.",
+        "content": [
+            "- Los actos y documentos de las instituciones del Estado que tengan la calidad de instrumento",
+            "público, podrán suscribirse mediante firma electrónica certificada. (1)"
+        ]
+    },
+    {
+        "number": "artículo  19",
+        "content": [
+            "de la Ley de Procedimientos Administrativos. (1)",
+            "",
+            "Interacción Electrónica entre Administrados y Funcionarios Públicos"
+        ]
+    },
+    {
+        "number": "Art.  32.",
+        "content": [
+            "- En las actuaciones de los administrados, éstos podrán presentar la información solicitada por la",
+            "Administración  Pública  en  formularios  electrónicos oficiales,  sistemas  electrónicos  en  línea  o  mediante",
+            "documentos electrónicos suscritos con firma electrónica simple o certificada, sello electrónico o sello de tiempo.",
+            "(1)",
+            "",
+            "Del requerimiento de firma (1)"
+        ]
+    },
+    {
+        "number": "Art.  32-",
+        "content": [
+            "A.- Cuando la ley requiera una firma autógrafa, esa exigencia también queda satisfecha por una",
+            "firma  electrónica.  Este  principio  es  aplicable  a  los  casos  en  que  la ley  establece  la obligación  de  firmar  o",
+            "prescribe consecuencias para su ausencia. (1)",
+            "",
+            "",
+            "",
+            "Presunción de remitente (1)"
+        ]
+    },
+    {
+        "number": "Art.  32-",
+        "content": [
+            "B.- Cuando un documento electrónico sea firmado por un certificado de aplicación, se presumirá,",
+            "salvo prueba en contrario, que el documento firmado proviene de la persona titular del certificado. (1)",
+            "",
+            "Actos de comunicaciones."
+        ]
+    },
+    {
+        "number": "Art.  33.",
+        "content": [
+            "-  Cualquier  institución  del  Estado,  siempre  y  cuando  cuente  con  la  infraestructura  tecnológica",
+            "adecuada, deberá realizar comunicaciones por vía electrónica utilizando firma electrónica simple, de actos tales",
+            "como citaciones y notificaciones, siempre y cuando el destinatario de los servicios públicos hubiera autorizado",
+            "ese  medio  de  comunicación.  Dicha  autorización  surtirá  efecto  mientras  el  destinatario  no  comunique  una",
+            "modificación al respecto.",
+            "",
+            "Conservación, registro y archivo."
+        ]
+    },
+    {
+        "number": "Art.  34.",
+        "content": [
+            "- Las  instituciones  del  Estado  podrán disponer  la  conservación,  registro  y  archivo  de cualquier",
+            "actuación que esté bajo su competencia, por medio de sistemas electrónicos, bajo la figura del almacenador",
+            "por cuenta propia. Tales archivos y registros sustituirán a los registros físicos para todo efecto, debiéndose"
+        ]
+    },
+    {
+        "number": "artículo  13-",
+        "content": [
+            "A de esta ley y demás leyes pertinentes. (1)",
+            "Las instituciones del Estado podrán contratar a cualquier prestador de servicios de almacenamiento de",
+            "documentos  electrónicos  que  cumpla  con  las  condiciones  técnicas  y  legales  establecidas  en  esta  ley,  su",
+            "reglamento y las normas y reglamentos técnicos. (1)",
+            "No  obstante  lo  anterior,  las  instituciones  oficiales  autónomas  y  demás  instituciones  del  Estado  con",
+            "personería jurídica propia, establecidas conforme a las leyes de la República, podrán prestar los servicios de",
+            "almacenamiento de documentos electrónicos, previa acreditación por parte de la Unidad de Firma Electrónica,",
+            "de acuerdo con el trámite señalado en la presente ley. (1)",
+            "",
+            "CAPITULO III",
+            "DE LA AUTORIDAD COMPETENTE",
+            "",
+            "La autoridad de control y vigilancia."
+        ]
+    },
+    {
+        "number": "Art.  35.",
+        "content": [
+            "- Créase la Unidad de Firma Electrónica, como parte del Ministerio de Economía, el que en el texto",
+            "de esta ley podrá abreviarse MINEC. El Ministro nombrará al funcionario que estará a cargo de esta Unidad,",
+            "quien deberá reunir los requisitos que para tal efecto se establezcan en el reglamento de esta Ley.",
+            "",
+            "De la Unidad de Firma Electrónica."
+        ]
+    },
+    {
+        "number": "Art.  36.",
+        "content": [
+            "- La Unidad de Firma Electrónica será la autoridad registradora y acreditadora raíz, y la competente",
+            "para la acreditación, control y vigilancia de los proveedores de los servicios de certificación electrónica y de",
+            "almacenamiento  de  documentos  electrónicos,  de  conformidad  con  esta  ley,  su  reglamento  y  las  normas  y",
+            "reglamentos técnicos.",
+            "",
+            "Competencias de la Unidad de Firma Electrónica."
+        ]
+    },
+    {
+        "number": "Art.  37.",
+        "content": [
+            "- La Unidad de Firma Electrónica tendrá las siguientes competencias: (1)",
+            "a)   Elaborar las normas y los reglamentos técnicos que sean necesarios para la implementación de la",
+            "presente ley, en coordinación con el Organismo Salvadoreño de Reglamentación Técnica (OSARTEC)",
+            "y el Organismo Salvadoreño de Normalización (OSN); (1)",
+            "",
+            "",
+            "b)   Otorgar y registrar la acreditación a los proveedores de servicios de certificación y a los proveedores",
+            "de servicios de almacenamiento de documentos electrónicos, una vez cumplidas las formalidades y",
+            "requisitos de esta ley, su reglamento y demás normas y reglamentos técnicos aplicables. Así como",
+            "denegar, suspender, renovar o revocar, la acreditación de aquellos que incumplan dichas normativas;",
+            "(1)",
+            "c)   Validar los certificados electrónicos emitidos a favor de los proveedores de servicios de certificación y",
+            "de almacenamiento de documentos electrónicos; (1)",
+            "d)   Supervisar, verificar e inspeccionar que los proveedores de servicios de certificación y los proveedores",
+            "de servicios de almacenamiento de documentos electrónicos, cumplan con los requisitos contenidos",
+            "en la presente ley, su reglamento, así como en normas y reglamentos técnicos aplicables; (1)",
+            "e)   Recaudar los aranceles regístrales establecidos en la presente ley; (1)",
+            "f)   Imponer las sanciones establecidas en esta ley; (1)",
+            "g)   Imponer las multas establecidas en la presente ley, las cuales ingresarán al Fondo General de la",
+            "Nación; (1)",
+            "h)   Coordinar y representar al país frente a los organismos nacionales e internacionales de conformidad a",
+            "la legislación aplicable sobre cualquier aspecto relacionado con el objeto de esta ley; (1)",
+            "i)   Instruir de oficio o a instancia de parte, sustanciar y decidir los procedimientos administrativos relativos",
+            "a presuntas infracciones a esta ley; (1)",
+            "j)   Informar de oficio a la Fiscalía General de la República, cuando tenga indicios de un delito; (1)",
+            "k)   Requerir  de  los  proveedores  de  servicios  de  certificación  y  a  los  proveedores  de  servicios  de",
+            "almacenamiento de documentos electrónicos, o sus usuarios, cualquier información que considere",
+            "necesaria y que esté relacionada con materias relativas al ámbito de sus funciones; (1)",
+            "I)   Publicar  y  mantener  actualizado  en  la  página  web  institucional,  el  listado  de  los  proveedores  de",
+            "servicios de certificación y de almacenamiento de documentos electrónicos; (1)",
+            "m)  Definir y realizar los procedimientos para la recepción y resolución de denuncias; (1)",
+            "n)   Elaborar un marco de referencia de los precios de los servicios de certificación y de almacenamiento",
+            "de documentos electrónicos, en base a estudios técnicos referentes a la materia; (1)",
+            "o)   Establecer,  mantener  y  publicar  listas  de  confianza  con  información  relativa  a  los  proveedores",
+            "acreditados, así como de los servicios prestados por estos; y, (1)",
+            "p)   Las demás que establezca la presente ley y su reglamento, así como las previstas en otras normas y",
+            "reglamentos técnicos aplicables. (1)",
+            "La  Unidad  de  Firma  Electrónica  establecerá,  mantendrá  y  publicará,  de  manera  segura,  las  listas  de",
+            "confianza firmadas o selladas electrónicamente a que se refiere el literal o) de este artículo, en una forma",
+            "apropiada para el tratamiento automático. (1)",
+            "",
+            "Conformación del Comité Técnico Consultivo"
+        ]
+    },
+    {
+        "number": "Art.  38.",
+        "content": [
+            "- Créase el Comité Técnico Consultivo, con el objeto de asesorar al Ministerio de Economía en lo",
+            "relativo a la Ley de Firma Electrónica.",
+            "Este Comité podrá ser consultado sobre cualquier aspecto de la aplicación e implementación de la presente",
+            "ley, y sesionará al menos una vez trimestralmente; su funcionamiento será regulado por el reglamento de esta",
+            "ley.",
+            "El comité estará integrado por un propietario y su respectivo suplente, de las siguientes instituciones e",
+            "instancias:",
+            "",
+            "",
+            "a)   El jefe de la unidad de Firma Electrónica del Ministerio de Economía, quien lo presidirá.",
+            "b)   La Superintendencia de Competencia.",
+            "c)   La  institución,  oficina  o  entidad  con  competencia  en  materia  de  tecnologías  de  la  información  y",
+            "comunicación, que designe la Presidencia de la República. (1)",
+            "d)   La Superintendencia General de Electricidad y Telecomunicaciones.",
+            "e)   La Defensoría del Consumidor.",
+            "f)   De las gremiales de la empresa privada con personería jurídica relacionada con el objeto de esta ley.",
+            "g)   Las universidades acreditadas por el Ministerio de Educación.",
+            "h)   Las organizaciones no gubernamentales con personalidad jurídica relacionadas al objeto de esta ley.",
+            "En el caso de los literales f), g) y h) del inciso anterior, los nominados serán seleccionados y propuestos",
+            "por cada una de las instituciones de acuerdo a su ordenamiento interno, estableciéndose en el reglamento de",
+            "esta ley el procedimiento para su nombramiento.",
+            "El ejercicio del cargo de los miembros del Comité será ad-honorem, los cuales serán nombrados para un",
+            "período de tres años.",
+            "",
+            "Requisitos para ser miembro del Comité Técnico Consultivo"
+        ]
+    },
+    {
+        "number": "Art.  39.",
+        "content": [
+            "- Los miembros del Comité Técnico Consultivo de las instituciones e instancias deberán de cumplir",
+            "con los siguientes requisitos para ejercer su cargo: (1)",
+            "a)   Ser de reconocida honorabilidad; (1)",
+            "b)   Ser de notoria competencia para el ejercicio del cargo; (1)",
+            "c)   Contar con conocimiento y/o experiencia en la materia; (1)",
+            "d)   La designación por parte de la institución u organismo al que representa; y, (1)",
+            "e)   No tener conflictos de interés con lo regulado en esta ley. (1)",
+            "El  Ministerio  de  Economía  a  través  de  la  Unidad  de Firma  Electrónica  solicitará  a  los  designados  y",
+            "postulantes a conformar dicho Comité, la documentación necesaria para comprobar los requisitos. (1)",
+            "",
+            "Miembros del Comité Técnico Consultivo (1)"
+        ]
+    },
+    {
+        "number": "Art.  39-",
+        "content": [
+            "A.- Para la elección de los representantes propietarios y suplentes del Comité Técnico Consultivo,"
+        ]
+    },
+    {
+        "number": "artículo  38",
+        "content": [
+            "de la ley, el Ministerio de Economía",
+            "hará una convocatoria en un periódico de circulación nacional y en su sitio web, al menos con sesenta días de",
+            "anticipación a que finalice el periodo para el cual han sido electos los miembros del precitado Comité. (1)",
+            "En dicha convocatoria, se establecerá la fecha y el lugar donde las instituciones deberán presentar la",
+            "documentación legal de la Institución y de su candidato; así como el día y la hora en la que se realizará la",
+            "Asamblea General de cada uno de los sectores, para que nombren a su representante. Si transcurrida la fecha",
+            "para la presentación de la documentación antes mencionada, no se hubiere recibido ninguna postulación, se",
+            "dejará sin efecto la convocatoria de la Asamblea General y se hará un nuevo señalamiento de acuerdo a lo",
+            "establecido en el inciso anterior, lo cual se hará del conocimiento del público en general por medio de un",
+            "periódico de circulación nacional y en el sitio web del Ministerio de Economía. (1)",
+            "El procedimiento para la elección incluirá como mínimo, los siguientes pasos: (1)",
+            "1.   El Ministerio de Economía deberá verificar la documentación de los candidatos presentados por cada",
+            "una de las instituciones y calificará que cumplan con los requisitos establecidos en la ley, que estén al",
+            "día con sus obligaciones legales, fiscales y que se encuentren debidamente acreditados. En caso que",
+            "",
+            "",
+            "algún requisito no se cumpla y sea este subsanable, deberá el Ministerio notificarle a la institución que",
+            "propone, a fin que subsane la prevención, dentro del plazo de diez días hábiles contados a partir de la",
+            "notificación de la prevención. Si la institución proponente no evacúa la prevención, o habiéndolo hecho",
+            "lo hiciera fuera del plazo antes señalado, el Ministerio de Economía rechazará al candidato propuesto.",
+            "De igual forma se procederá en caso que el requisito que no se cumpla fuera insubsanable. (1)",
+            "2.   Las Asambleas Generales de cada sector, se realizarán en las instalaciones que indique el Ministerio",
+            "de  Economía  y  únicamente  formarán  parte  de  ese  proceso  las  instituciones  que  presentaron",
+            "candidatos y que hayan cumplido con los requisitos establecidos para tal efecto. El Jefe de la Unidad,",
+            "será el encargado de iniciar la Asamblea, quien explicará el proceso de elección, fungiendo únicamente",
+            "como observador. La elección se hará con votación abierta a mano alzada por parte de las instituciones",
+            "postulantes. El Jefe de la Unidad hará constar en Acta, el nombramiento de los representantes de",
+            "dicho  Comité.  Posteriormente,  remitirá  ésta  al  Ministro  de  Economía,  a  fin  de  que  formalice  el",
+            "nombramiento.  En  caso  que  las  instituciones  de  algún  sector  no  se  pongan  de  acuerdo  con  et",
+            "nombramiento de su representante, se convocará nuevamente, en un plazo no mayor a quince días, a",
+            "Asamblea General, a fin de someter a nueva votación la elección del representante, siguiéndose el",
+            "procedimiento antes descrito. (1)",
+            "3.   Si  llegado  el  día  y  hora  para  llevar  a  cabo  la  Asamblea  General,  se  contara  únicamente  con  la",
+            "postulación de los candidatos de una sola institución, se tendrá a los postulantes como miembros",
+            "electos por parte del sector que representan. En todo caso el Jefe de la Unidad hará constar en acta",
+            "dicha  situación  y  posteriormente  remitirá  ésta  al  Ministro  de  Economía,  a  fin  que  se  formalice  el",
+            "nombramiento. (1)",
+            "",
+            "De las convocatorias a las sesiones del Comité Técnico Consultivo (1)"
+        ]
+    },
+    {
+        "number": "Art.  39-",
+        "content": [
+            "B.- El Comité sesionará en forma ordinaria una vez cada tres meses y de forma extraordinaria, en",
+            "cualquier momento que sea necesario. Las convocatorias a las sesiones del Comité serán realizadas con un",
+            "mínimo de quince días de anticipación por el Jefe de la Unidad y extraordinariamente, con al menos veinticuatro",
+            "horas  de  anticipación;  podrán  efectuarse  por  cualquiera  de  los  siguientes  medios:  vía  electrónica,  fax  o",
+            "periódicos  de  circulación  nacional  u  otros  que  sean  idóneos  para  tal  efecto;  en  aquellos  casos  en  que la",
+            "convocatoria se realice por medios electrónicos, se deberá dejar constancia de recepción de la misma, de"
+        ]
+    },
+    {
+        "number": "artículo  101",
+        "content": [
+            "de la Ley de Procedimientos Administrativos. (1)",
+            "Las sesiones del Comité podrán llevarse a cabo de forma presencial o a distancia, mediante la utilización",
+            "de las tecnologías de la información y comunicación, en cuyo caso se deberá de especificar en la convocatoria",
+            "tal circunstancia. (1)",
+            "",
+            "Quorum y votaciones (1)",
+            "Art.- 39-C.- El quorum para que el Comité sesione válidamente será de la mitad más uno de los miembros,",
+            "debiendo estar presente siempre el Jefe de la Unidad. En caso que no se alcanzara el quorum requerido para",
+            "sesionar en primera convocatoria, se llevará a cabo una segunda convocatoria de la forma prescrita en el",
+            "artículo anterior, la cual se celebrará con el número de miembros que asistan a ella. (1)",
+            "Los miembros suplentes podrán participar en las sesiones, pero no tendrán derecho al voto, excepto en",
+            "aquellos casos en que se encuentren supliendo al miembro propietario del sector que representen. (1)",
+            "Los acuerdos se adoptarán por el voto de la mayoría de los miembros presentes. (1)",
+            "",
+            "Actas (1)",
+            "Art.- 39-D.- El Jefe de la Unidad levantará un Acta por cada sesión, las cuales se asentarán en un libro de",
+            "actas y deberán ser firmadas por todos los miembros asistentes, siendo responsabilidad del Jefe de la Unidad,",
+            "el  resguardo  de  dicho  libro.  Sí  la  sesión  ha  sido  celebrada  mediante  la  utilización  de  tecnologías  de la",
+            "",
+            "",
+            "información y comunicación, el Jefe de la Unidad deberá de grabar íntegramente la sesión, debiendo levantar",
+            "un acta sucinta de la misma en la que se detallarán los miembros que asistieron, los acuerdos tomados en la",
+            "sesión y cualquier otro dato relevante acaecido en la sesión, la cual será firmada únicamente por él y se asentará",
+            "en el libro de actas anteriormente relacionado. Será responsabilidad del Jefe de la Unidad, el resguardo del",
+            "archivo audiovisual de la sesión. (1)",
+            "El acta a que se hace referencia en el presente artículo, podrá ser redactada mediante documento físico o",
+            "mediante documento electrónico, en cuyo caso deberá de ser firmada por todos los miembros del consejo de",
+            "forma electrónica, de acuerdo a lo previsto en la ley. (1)",
+            "",
+            "Auditorías e Inspecciones (1)"
+        ]
+    },
+    {
+        "number": "Art.  40.",
+        "content": [
+            "-  Para  el  correcto  cumplimiento  de  las  atribuciones  concedidas  por  esta  ley,  el  Ministerio  de",
+            "Economía por medio de la Unidad de Firma Electrónica realizará, directamente o por contratación, auditorías o",
+            "inspecciones  de  los  proveedores  de  servicios  de  certificación,  y  a  los  proveedores  de  servicios  de",
+            "almacenamiento de documentos electrónicos. (1)",
+            "Dentro  del  marco  de  la  presente  ley,  las  distintas auditorías  e  inspecciones,  el  solicitante  deberá  de",
+            "proporcionar todos los insumos y asumir los costos derivados de estos, a fin que la Unidad pueda llevar a cabo",
+            "las mismas. (1)",
+            "",
+            "Aranceles Regístrales (1)"
+        ]
+    },
+    {
+        "number": "Art.  41.",
+        "content": [
+            "-  Los  aranceles  regístrales,  aplicables  a  los  proveedores  de  servicio  de  certificación,  y  de  los",
+            "prestadores de servicio de almacenamiento de documentos electrónicos, serán cobrados por el Ministerio de",
+            "Economía. (1)",
+            "Los aranceles aplicables serán los siguientes: (1)",
+            "a)   La inscripción causará en concepto de pago de derechos, el equivalente a cuatro salarios mínimos",
+            "mensuales del sector comercio y servicio; y, (1)"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            "de esta ley, corresponderá en concepto de pago",
+            "de derechos, a dos salarios mínimos mensuales del sector comercio y servicio. (1)",
+            "",
+            "Medidas para Garantizar los Servicios (1)"
+        ]
+    },
+    {
+        "number": "Art.  42.",
+        "content": [
+            "- La Unidad de Firma Electrónica del Ministerio de Economía, adoptará las medidas preventivas",
+            "necesarias  para  garantizar  la  confiabilidad  de  los servicios  prestados  por  los  proveedores  de  servicios  de",
+            "certificación, y de los proveedores de servicios de almacenamiento de documentos electrónicos, los cuales",
+            "deberán ser de alta disponibilidad. (1)",
+            "A  tal  efecto,  dictará  las  normas  y  reglamentos  técnicos  necesarios  y,  entre  otras  medidas,  emitirá  las",
+            "relacionadas con el uso de estándares o prácticas internacionalmente aceptadas para la prestación de los",
+            "servicios de firma electrónica certificada, y de los servicios de almacenamiento de documentos electrónicos, o",
+            "que el proveedor se abstenga de realizar cualquier actividad que ponga en peligro la integridad o el buen uso",
+            "del servicio. (1)",
+            "",
+            "CAPÍTULO IV",
+            "DE LA ACREDITACIÓN Y PRESTACIÓN DE LOS SERVICIOS DE CERTIFICACIÓN",
+            "",
+            "Requisitos generales.",
+            "",
+            ""
+        ]
+    },
+    {
+        "number": "Art.  43.",
+        "content": [
+            "- El servicio de certificación sólo podrá ser prestado por aquellas personas jurídicas, nacionales o",
+            "extranjeras, que cumplan con los requisitos establecidos en las leyes competentes para operar en el país, y que",
+            "demuestren para su autorización y durante todo el periodo en que se presten los servicios de certificación,",
+            "cumplir con los siguientes requisitos: (1)",
+            "a)   Contar con suficiente capacidad técnica para garantizar la seguridad, la calidad y la fiabilidad de los",
+            "servicios de certificación, de conformidad a los requerimientos contenidos en las normas técnicas; (1)",
+            "b)   Contar con el personal técnico adecuado con conocimiento especializado comprobable en la materia",
+            "y experiencia en el servicio a prestar; (1)",
+            "c)   Poseer la capacidad económica y financiera suficiente para prestar los servicios de certificación, en",
+            "tas modalidades autorizadas. La capacidad antes mencionada será medida, no sólo por los equipos,",
+            "insumos, licencias y otros bienes con los que cuente para prestar sus servicios, sino también por el",
+            "capital de trabajo con el que funcionará. Esta constatación la realizará la Unidad de Firma Electrónica,",
+            "mediante las auditorías y estudios que considere conveniente, y se revisará durante el tiempo de",
+            "funcionamiento del proveedor; (1)",
+            "d)   Rendir una garantía por un monto adecuado al riesgo asumido por la prestación de los servicios de",
+            "certificación, otorgada por una sociedad autorizada por la Superintendencia del Sistema Financiero, la",
+            "que se calculará conforme a los requerimientos definidos en el reglamento de la presente ley. Para los",
+            "efectos de esta ley, se excluyen las garantías y los derechos reales que puedan constituirse sobre un",
+            "bien  mueble  o  inmueble  determinado.  Esta  garantía  será  utilizada  para  indemnizar  los  daños  y",
+            "perjuicios que se ocasionasen a los usuarios de los servicios. La garantía será revisada anualmente",
+            "tomando  en  cuenta  los  cambios  en  el  nivel  de  riesgo  asumido  por  el  proveedor  de  servicios  de",
+            "certificación; (1)",
+            "e)   Contar con un sistema de información de alta disponibilidad, actualizado y eficiente para la prestación",
+            "del  servicio,  de  acuerdo  a  los  parámetros  establecidos  en  el  reglamento  técnico  correspondiente,",
+            "emitido por la Unidad de Firma Electrónica; (1)",
+            "f)   Publicar la declaración de prácticas de certificación y la política de certificación en un medio electrónico",
+            "permanente; y, (1)",
+            "g)   Satisfacer los demás requisitos previstos en esta ley. (1)",
+            "Las  instituciones  oficiales  autónomas  y  demás  instituciones  públicas  con  personería  jurídica  propia",
+            "establecidas conforme a las leyes de la República, quedan facultadas para prestar los servicios regulados en",
+            "esta  ley.  Dichas  instituciones  deberán  cumplir  los requisitos  establecidos  en  el  presente  artículo  para  ser",
+            "acreditadas. (1)",
+            "",
+            "Modalidad de Servicios (1)"
+        ]
+    },
+    {
+        "number": "Art.  43-",
+        "content": [
+            "A.- Los servicios de certificación comprenden tas modalidades de firma electrónica certificada, sello",
+            "electrónico,  sello  de  tiempo  y  autenticación  de  sitios  web.  Tratándose  de  proveedores  de  servicios  de",
+            "certificación que hayan sido acreditados en alguna de las modalidades antes mencionadas, y deseen ofrecer",
+            "servicios en una modalidad distinta a la cual fueron acreditados, deberán de seguir el trámite previsto en el"
+        ]
+    },
+    {
+        "number": "artículo  44",
+        "content": [
+            "de esta ley, y demostrar el cumplimiento de los requisitos previstos en el artículo anterior, en relación",
+            "a la nueva modalidad que pretenden prestar. (1)",
+            "",
+            "Procedimiento de Acreditación de los Proveedores de Servicios de Certificación (1)"
+        ]
+    },
+    {
+        "number": "Art.  44.",
+        "content": [
+            "- Las personas jurídicas interesadas en prestar servicios de certificación, deberán acreditarse como",
+            "Proveedores de Servicios de Certificación ante la Unidad de Firma Electrónica, para tales efectos, deberán de",
+            "presentar una solicitud junto con la documentación que demuestre el cumplimiento de los requisitos previstos"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            "de esta ley. (1)",
+            "",
+            "",
+            "Admitida la solicitud, la Unidad deberá de evaluar el cumplimiento de los requisitos previstos en el artículo",
+            "43 de esta ley, por medio de una auditoría inicial, la cual deberá llevarse a cabo dentro del plazo de sesenta",
+            "días hábiles. Concluida la auditoría, la Unidad deberá de emitir resolución final dentro del plazo de cinco días",
+            "hábiles, ya sea otorgando la acreditación o denegando la misma. (1)"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            ", el solicitante podrá",
+            "acreditar  por  escrito,  el  compromiso  de  adquirir  los  equipos  especializados  necesarios  y  los  servicios  de",
+            "personal técnico adecuado en el plazo máximo de 90 días hábiles, prorrogable por una sola vez por un período",
+            "igual, por la Unidad de Firma Electrónica, siempre que el solicitante demuestre que el incumplimiento no es",
+            "imputable a él. (1)",
+            "El compromiso a que se refiere el inciso anterior, será evaluado por la Unidad a través de una auditoría de",
+            "seguimiento,  la  cual  deberá  de  llevarse  a  cabo  dentro  del  plazo  de  sesenta  días  hábiles,  posteriores  a  la",
+            "finalización del plazo de noventa días antes señalados, o de la prórroga, en su caso. Si transcurrido el plazo",
+            "otorgado  al  solicitante,  sin  que  éste  hubiere  cumplido  el  compromiso  antes  mencionado,  se  procederá",
+            "inmediatamente a dejar sin efecto la acreditación otorgada. (1)",
+            "El  plazo  de  duración  de  la  acreditación  será  por  tiempo  indefinido,  siempre  que  se  demuestre  el"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            "de esta ley, los cuales serán verificados a través",
+            "del procedimiento de revisión anual. (1)",
+            "",
+            "Declaración de Prácticas y Política de Certificación de firma electrónica certificada y sello electrónico",
+            "(1)"
+        ]
+    },
+    {
+        "number": "Art.  44-",
+        "content": [
+            "A.-  Toda  persona  que  provea  servicios  de  certificación  en  la  modalidad  de  firma  electrónica",
+            "certificada y sello electrónico, redactará una declaración de prácticas y políticas de certificación, en la que",
+            "detallará, la siguiente información: (1)",
+            "a)   Las obligaciones que se comprometen a cumplir, en relación con la gestión de certificados electrónicos",
+            "y datos de creación y verificación de firma y sello; (1)",
+            "b)   El detalle de los servicios que fueron autorizados a prestar por la unidad competente y las funciones",
+            "de verificación y registro; (1)",
+            "c)   Las condiciones aplicables a la solicitud, emisión, suspensión, renovación, revocación, modificación,",
+            "traspaso a otros proveedores, uso y extinción de la vigencia de los certificados electrónicos; (1)",
+            "d)   Las medidas de seguridad técnica, lógica, física y organizativa; (1)",
+            "e)   Los mecanismos de notificación sobre la emisión, suspensión, renovación, revocación, modificación y",
+            "vigencia  de  los  certificados,  cancelación  del  servicio,  traspaso  a  otros  proveedores,  términos  y",
+            "condiciones, y cese de actividad; (1)",
+            "f)   Los límites de responsabilidad para prestar los servicios de certificación y cualquier evento que limite",
+            "la operación del proveedor; (1)",
+            "g)   La lista de normas y procedimientos de certificación; (1)",
+            "h)   Requisitos de operación del ciclo de vida de los certificados; (1)",
+            "i)   Procedimientos sobre la validación inicial de la identidad; y, (1)",
+            "j)   Cualquier otra información que la Unidad de Firma Electrónica solicite mediante normas y reglamentos",
+            "técnicos. (1)",
+            "La  declaración  de  prácticas  y  políticas  de  certificación  serán  proporcionadas  a  la  Unidad  de  Firma",
+            "Electrónica para su aprobación, y deberá ser accesible al público por vía electrónica o por cualquier otro medio,",
+            "y de forma gratuita. (1)",
+            "",
+            "",
+            "",
+            "Declaración de Prácticas y Política de Certificación del sello de tiempo (1)"
+        ]
+    },
+    {
+        "number": "Art.  44-",
+        "content": [
+            "B.- Toda persona que provea servicios de certificación en la modalidad de sello de tiempo, redactará",
+            "una declaración de prácticas y políticas de certificación, en la que detallará, la siguiente información: (1)",
+            "a)   Las obligaciones que se comprometen a cumplir, en relación al servicio de sello de tiempo; (1)",
+            "b)   El detalle de los servicios que fueron autorizados a prestar por la unidad competente; (1)",
+            "c)   Las condiciones aplicables a la suspensión, renovación, revocación, modificación, y extinción de la",
+            "vigencia del certificado electrónico de sello de tiempo del proveedor; (1)",
+            "d)   Las medidas de seguridad técnica, lógica, física y organizativa; (1)",
+            "e)   Los límites de responsabilidad para prestar los servicios de certificación y cualquier evento que limite",
+            "la operación del proveedor; (1)",
+            "f)   La lista de normas y procedimientos de certificación; y, (1)",
+            "g)   Cualquier otra información que la Unidad de Firma Electrónica solicite mediante normas y reglamentos",
+            "técnicos. (1)",
+            "La  declaración  de  prácticas  y  políticas  de  certificación  serán  proporcionadas  a  la  Unidad  de  Firma",
+            "Electrónica para su aprobación, y deberá ser accesible al público por vía electrónica o por cualquier otro medio,",
+            "y de forma gratuita, salvo los extractos que la Unidad autorice, debido a que comprometería los controles y",
+            "procedimientos de seguridad de esta actividad. En aquellos casos en que la Unidad encuentre que el Proveedor",
+            "ha publicado una declaración de prácticas y políticas que no refleja su situación real, debe requerir la publicación",
+            "de información debidamente corregida. (1)",
+            "",
+            "Equivalencia de certificados emitidos en el extranjero."
+        ]
+    },
+    {
+        "number": "Art.  45.",
+        "content": [
+            "- Los certificados emitidos por prestadores de servicios de certificación en el extranjero, podrán ser",
+            "reconocidos en los mismos términos y condiciones establecidos por esta ley para los certificados nacionales,",
+            "cuando cumplan una de las siguientes condiciones: (1)",
+            "a)   Si  los  certificados  son  reconocidos  en  virtud  de  acuerdo  con  otros  países,  ya  sea  bilaterales  y",
+            "multilaterales, o efectuados en el marco de organizaciones internacionales de las que el país forma",
+            "parte; (1)",
+            "b)   Si se acredita que, el o los certificados, no se encuentran suspendidos, revocados o cancelados y que",
+            "han sido emitidos por un prestador de servicios de certificación, debidamente acreditado o autorizado",
+            "en su país de origen, por una institución homologa a la Unidad de Firma Electrónica, y; (1)",
+            "c)   Se acredite que tales certificados fueron emitidos por un prestador de servicios de certificación, que",
+            "cumple  con  los  estándares  requeridos  para  un  prestador  de  servicios  de  certificación  de  firmas",
+            "electrónicas registradas en la Unidad de Firma Electrónica. (1)",
+            "Los certificados electrónicos extranjeros que no cumplan las condiciones antes señaladas carecerán de los",
+            "efectos jurídicos que se le atribuyen legalmente conforme a esta normativa; sin embargo, podrán constituir un",
+            "elemento de prueba conforme a las reglas de la sana crítica. (1)",
+            "",
+            "Inicio de las actividades de Proveedores de Servicios de Certificación."
+        ]
+    },
+    {
+        "number": "Art.  46.",
+        "content": [
+            "-  El  proveedor  de  servicios  de  certificación  acreditado  que  inicie  sus  actividades,  deberá  dar",
+            "notificación de este hecho a la Unidad de Firma Electrónica, a más tardar diez días hábiles previos a dicho",
+            "inicio.",
+            "",
+            "Obligación de Notificación.",
+            "",
+            ""
+        ]
+    },
+    {
+        "number": "Art.  47.",
+        "content": [
+            "- El cumplimiento de los requisitos exigidos por esta ley para prestar los servicios de certificación,",
+            "deberá asegurarse por todo el plazo en que el proveedor realice su actividad. Si surgen circunstancias dentro",
+            "de las cuales esta garantía de cumplimiento ya no pueda ser mantenida, deberá notificarse de inmediato a la",
+            "Unidad de Firma Electrónica.",
+            "Cuando se suscite cualquier modificación de la persona jurídica, incluyendo las relativas a la administración,",
+            "deberá ser notificado oportunamente a la Unidad de Firma Electrónica.",
+            "",
+            "Obligaciones de los Proveedores de Servicios de Certificación (1)"
+        ]
+    },
+    {
+        "number": "Art.  48.",
+        "content": [
+            "- Los proveedores de servicios de certificación tendrán las siguientes obligaciones: (1)",
+            "a)   Adoptar  las  medidas  necesarias  para  determinar  la  exactitud  de  los  certificados  electrónicos  que",
+            "proporcionen, la identidad y la calidad del titular; (1)",
+            "b)   Garantizar la validez, vigencia, legalidad y seguridad del certificado electrónico que proporcione; (1)",
+            "c)   Garantizar  la  adopción  de  las  medidas  necesarias  para  evitar  la  falsificación  de  certificados",
+            "electrónicos, de los sellos electrónicos de tiempo, de la autenticación de sitios web y de las firmas",
+            "electrónicas certificadas que proporcionen; (1)",
+            "d)   Crear y mantener un archivo actualizado de los certificados emitidos en medios electrónicos, para su",
+            "consulta por el plazo de quince años (15), posteriores a su vencimiento, revocación o suspensión; (1)",
+            "e)   Garantizar a los usuarios los mecanismos necesarios para el ejercicio de los derechos de acceso,",
+            "rectificación, cancelación y oposición; (1)",
+            "f)   Sin  perjuicio  de  otras  obligaciones  establecidas  en  la  Ley  de  Protección  al  Consumidor,  deberá",
+            "informar a los interesados de sus servicios de certificación, utilizando un lenguaje comprensible, a",
+            "través de su sitio de internet y a través de cualquier otra forma de acceso público, los términos precisos",
+            "y condiciones para e! uso del certificado electrónico y, en particular, de cualquier limitación sobre su",
+            "responsabilidad,  así  como  de  los  procedimientos  especiales  existentes  para  resolver  cualquier",
+            "controversia; (1)",
+            "g)   Garantizar la autenticidad, integridad y confidencialidad de la información, y documentos relacionados",
+            "con los usuarios de los servicios que proporcione. A tales efectos, deberán mantener un sistema de",
+            "seguridad informática y respaldos confiables y seguros de dicha información, de conformidad a lo",
+            "establecido en la presente ley, su reglamento, y normas y reglamentos técnicos; (1)",
+            "h)   Efectuar las notificaciones y realizar las publicaciones necesarias, para informar a los signatarios y",
+            "personas interesadas, acerca del vencimiento, revocación, suspensión o renovación de los certificados",
+            "electrónicos que proporcione, así como los incidentes de seguridad de la información o ciberseguridad",
+            "que hubiesen afectado la confidencialidad o integridad de su información, las medidas adoptadas para",
+            "mitigar el incidente o cualquier otro aspecto de relevancia para el público en general, en relación con",
+            "los mismos; (1)",
+            "i)   Dar aviso a la Fiscalía General de la República, cuando en el desarrollo de sus actividades tenga",
+            "indicios de la comisión de un delito; (1)"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            ",  literal  d)  de  esta  ley,  previo  a  su",
+            "vencimiento; (1)"
+        ]
+    },
+    {
+        "number": "artículo  44-",
+        "content": [
+            "A",
+            "de la presente ley; (1)",
+            "I)   Cumplir con lo regulado en la Ley de Protección al Consumidor; (1)",
+            "m)  Mantener  el  control  exclusivo  de  su  clave  privada  e  implementar  las  condiciones  de  seguridad",
+            "establecidas  en  el  Reglamento  Técnico  Salvadoreño  respectivo,  para  que  no  se  divulgue  o",
+            "comprometa; (1)",
+            "",
+            "",
+            "n)   No  almacenar  ni  copiar,  por  sí  o  a  través  de  un tercero,  los  datos  de  creación  de  firma,  sello  o",
+            "autenticación de sitio web de la persona física o jurídica a la que hayan prestado sus servicios; (1)",
+            "o)   Garantizar la prestación ininterrumpida de los servicios registrados; (1)",
+            "p)   Contar con un plan de contingencia que garantice la prestación continua de los servicios; (1)",
+            "q)   Comprobar de forma fehaciente la identidad y calidad del titular del certificado, previo a su expedición.",
+            "A  tal  efecto,  deberá  seguir  las  reglas  de  comprobación  que  se  establecerán  en  las  normas  y",
+            "reglamentos técnicos; (1)",
+            "r)   Informar  a  la  Unidad  de  Firma  Electrónica,  sobre  incidentes  de  seguridad  de  la  información  y",
+            "ciberseguridad  que  afecten  a  los  servicios  brindados  por  el  proveedor,  en  el  momento  que  tenga",
+            "conocimiento sobre el incidente materializado, por el medio que tenga disponible y que, de acuerdo a",
+            "su análisis de riesgos, exceda los límites de riesgos, haciendo una breve descripción del incidente, que",
+            "incluya la información general que tenga a su disposición sobre la posible causa e impacto y acciones",
+            "ejecutadas. El proveedor, diez (10) días hábiles después de haber reportado el referido incidente,",
+            "deberá remitir la documentación siguiente: (1)",
+            "1.   Fecha y hora de inicio de ocurrencia; (1)",
+            "2.   Fecha y hora de fin de ocurrencia, si hubiere terminado el incidente; (1)",
+            "3.   Descripción del incidente; (1)",
+            "4.   Causas de las fallas; (1)",
+            "5.   Diagnóstico técnico; (1)",
+            "6.   Servicios afectados; (1)",
+            "7.   Usuarios afectados; (1)",
+            "8.   Tiempo fuera de servicio; (1)",
+            "9.   Impacto ocasionado; y, (1)",
+            "10.  Acciones correctivas ejecutadas y/o plan de acción a implementar por esa entidad para solventar",
+            "las causas que originaron el o los incidentes, así como para prevenirlos en el futuro. (1)",
+            "s)   Conservar la información relevante sobre los datos emitidos y recibidos por el Proveedor de Servicios",
+            "de Certificación que pueda proporcionar prueba en procesos judiciales, por un período mínimo de",
+            "quince (15) años a partir del cese de actividades o traspaso de certificados a otro proveedor acreditado;",
+            "(1)",
+            "t)   Cumplir con las demás obligaciones establecidas en esta ley, y otras leyes especiales. (1)",
+            "El incumplimiento de cualquiera de los requisitos anteriores dará lugar a las sanciones establecidas en la",
+            "presente ley. (1)",
+            "",
+            "Pérdida de capacidad tecnológica o económica de los proveedores de servicios de certificación."
+        ]
+    },
+    {
+        "number": "Art.  49.",
+        "content": [
+            "-  Cuando  el  proveedor  de  servicios  de  certificación  pierda  la  capacidad  técnica  o  económica",
+            "necesaria para brindar el servicio posterior al inicio de sus actividades, determinado por auditoria o inspección",
+            "la Unidad de Firma Electrónica determinará el plazo necesario para suplir dichas deficiencias.",
+            "En caso de no suplir dichas deficiencias, se aplicarán las sanciones previstas en esta ley.",
+            "",
+            "Responsabilidad por daños y perjuicios."
+        ]
+    },
+    {
+        "number": "Art.  50.",
+        "content": [
+            "- Los proveedores de servicios de certificación serán responsables de los daños y perjuicios que",
+            "ocasionen a sus usuarios, cuando deriven del incumplimiento de las obligaciones y requisitos establecidos en",
+            "",
+            "",
+            "esta ley, su reglamento, y demás normas y reglamentos técnicos o del incumplimiento de sus obligaciones",
+            "contractuales.",
+            "El proveedor de servicios de certificación también asume la obligación de resarcir por actos imputables a",
+            "terceros que hayan sido encargados por él para la realización de servicios en el cumplimiento de sus funciones.",
+            "Para la responsabilidad por daños y perjuicios, se observará lo establecido en el Código Civil en lo atinente;",
+            "sin embargo, le corresponderá al proveedor de servicios de certificación probar la debida diligencia.",
+            "",
+            "Notificación del cese de actividades."
+        ]
+    },
+    {
+        "number": "Art.  51.",
+        "content": [
+            "-  Cuando  los  proveedores  de  servicios  de  certificación  decidan  cesar  en  sus  actividades,  lo",
+            "notificarán a la Unidad de Firma Electrónica, al menos con noventa días hábiles de anticipación a la fecha de",
+            "cesación. (1)",
+            "El  Ministerio  de  Economía  a  través  de  la  Unidad  de Firma  Electrónica,  después  de  haber  recibido  la",
+            "notificación, emitirá la resolución correspondiente, por medio de la cual se declare la cesación de actividades",
+            "del proveedor de servicios de certificación como prestador de ese servicio, sin perjuicio de las investigaciones",
+            "que pueda realizar a fin de determinar las causas que originaron el cese de las actividades del proveedor, y las",
+            "medidas que fueren necesarias adoptar con el objeto de salvaguardar los derechos de los usuarios. (1)",
+            "La Unidad de Firma Electrónica ordenará al proveedor que realice los trámites necesarios para hacer del",
+            "conocimiento de los usuarios y del público en general, la cesación de esas actividades y para garantizar la",
+            "conservación de la información, prohibiéndole contratar nuevos usuarios. (1)",
+            "Con la finalidad de garantizar la continuidad del servicio hasta la finalización del contrato, el proveedor de",
+            "servicios de certificación trasladará sus usuarios activos a otro prestador, previo consentimiento expreso del",
+            "usuario, sin que signifique costo adicional para este último. (1)",
+            "Si no existiere posibilidad de traspasar sus usuarios activos a otro proveedor, deberá notificar a los usuarios",
+            "y  al  Ministerio  de  Economía,  a  través  de  la  Unidad de  Firma  Electrónica,  para  que  realicen  las  gestiones",
+            "correspondientes para la revocación del certificado del proveedor. El procedimiento de compensación será",
+            "regulado mediante el reglamento de la presente ley. (1)",
+            "El proveedor de servicios de certificación deberá trasladar a la Unidad de Firma Electrónica, el archivo a"
+        ]
+    },
+    {
+        "number": "artículo  48",
+        "content": [
+            "de la presente ley. (1)",
+            "En  todo  caso,  el  cese  de  las  actividades  de  un  proveedor  de  servicios  de  certificación,  conllevará  la",
+            "cancelación de su registro y la revocación del certificado del proveedor, sin perjuicio del pago de las obligaciones",
+            "económicas pendientes derivadas de sus funciones. (1)",
+            "",
+            "CAPÍTULO V",
+            "DE LA ACREDITACIÓN Y PRESTACIÓN DE LOS SERVICIOS DE ALMACENAMIENTO DE",
+            "DOCUMENTOS ELECTRÓNICOS (1)",
+            "",
+            "Acreditación y Registro del Prestador de Servicios de Almacenamiento de Documentos Electrónicos (1)"
+        ]
+    },
+    {
+        "number": "Art.  52.",
+        "content": [
+            "- El servicio de almacenamiento de documentos electrónicos, sólo podrá ser prestado por aquellas"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            "de",
+            "esta  ley,  tanto  para  su  autorización,  como  durante todo  el  período  en  que  se  presten  los  servicios  de",
+            "almacenamiento de documentos electrónicos. (1)",
+            "Las  personas  interesadas  en  acreditarse  como  proveedores  de  servicios  de  almacenamiento  de"
+        ]
+    },
+    {
+        "number": "artículo  44",
+        "content": [
+            "de esta ley. En caso que la",
+            "acreditación de servicios de almacenamiento de documentos electrónicos, sea solicitada de forma conjunta con",
+            "la de servicios de certificación, el plazo para llevar a cabo la auditoria inicial será de noventa días hábiles. (1)",
+            "",
+            "",
+            "Los proveedores de servicios de almacenamiento de documentos electrónicos deberán dar cumplimiento",
+            "a lo dispuesto en los artículos 46, 47 y 49 de esta ley, en los términos que resulten aplicables a este tipo de",
+            "servicios. (1)",
+            "",
+            "Funciones de los Prestadores de Servicios de Almacenamiento de Documentos Electrónicos (1)"
+        ]
+    },
+    {
+        "number": "Art.  53.",
+        "content": [
+            "- Los proveedores de servicios de almacenamiento de documentos electrónicos podrán realizar las",
+            "siguientes funciones: (1)",
+            "a)   Ofrecer los servicios de procesamiento y almacenamiento de documentos electrónicos; (1)",
+            "b)   Ofrecer los servicios de archivo y conservación de documentos almacenados electrónicamente; (1)",
+            "c)   Ofrecer los servicios de desmaterialización de documentos físicos, con la finalidad de almacenarlos",
+            "electrónicamente; (1)",
+            "d)   Dotar de integridad a un mensaje de datos o documento electrónico suscrito con firma simple; y, (1)",
+            "e)   Cualquier otra actividad afín, relacionada con el almacenamiento de mensajes de datos y documentos",
+            "electrónicos. (1)",
+            "Los servicios de desmaterialización de documentos, no podrán ser utilizados para títulos valores. (1)",
+            "",
+            "Obligaciones de los Prestadores de Servicios de Almacenamiento de Documentos Electrónicos"
+        ]
+    },
+    {
+        "number": "Art.  54.",
+        "content": [
+            "-  Los  prestadores  de  servicios  de  almacenamiento  de  documentos  electrónicos,  tendrán  las",
+            "siguientes obligaciones: (1)",
+            "a)   Emplear personal calificado con los conocimientos y experiencia necesarios para la prestación de los",
+            "servicios de almacenamiento de documentos electrónicos ofrecidos y los procedimientos de seguridad",
+            "y de gestión adecuados; (1)",
+            "b)   Contar  con  sistemas  confiables  y  productos  que  estén  protegidos  contra  toda  alteración  y  que",
+            "garanticen  un  alto  grado  de  seguridad  técnica,  así como  de  los  procesos  de  almacenamiento  de",
+            "documentos electrónicos que sirven de soporte; (1)",
+            "c)   Garantizar  la  protección,  la  integridad,  la  autenticidad,  la  confidencialidad  y  el  debido  uso  de  la",
+            "información suministrada por el usuario del servicio; para tales efectos, deberán mantener un sistema",
+            "de seguridad informática y respaldos confiables y seguros de dicha información, de conformidad a lo",
+            "establecido en la presente ley, su reglamento, u otras normas y reglamentos técnicos relacionados; (1)",
+            "d)   Contar con un plan de contingencia que garantice la prestación continua de los servicios; (1)",
+            "e)   Utilizar  sistemas  confiables  para  almacenar  documentos  electrónicos,  que  permitan  comprobar  su",
+            "autenticidad, integridad e impedir que personas no autorizadas alteren los datos, y se pueda detectar",
+            "cualquier cambio que afecte a estas condiciones de seguridad; (1)",
+            "f)   Contar con la declaración de prácticas y políticas de almacenamiento de documentos electrónicos que"
+        ]
+    },
+    {
+        "number": "artículo  15",
+        "content": [
+            "de la presente ley; (1)",
+            "g)   Garantizar a los usuarios los mecanismos necesarios para el ejercicio de los derechos de acceso,",
+            "rectificación, cancelación y oposición; (1)",
+            "h)   Garantizar que los documentos electrónicos almacenados son accesibles únicamente para quien los",
+            "ha almacenado, así como también que éstos no pueden ser alterados, copiados o sustraídos por",
+            "terceros; (1)",
+            "i)   Cumplir con lo regulado en la Ley de Protección al Consumidor; (1)"
+        ]
+    },
+    {
+        "number": "artículo  43",
+        "content": [
+            ",  literal  d)  de  esta  ley,  previo  a  su",
+            "vencimiento; (1)",
+            "",
+            "",
+            "k)   Garantizar la prestación ininterrumpida de los servicios registrados; (1)",
+            "I)   Sin  perjuicio  de  otras  obligaciones  establecidas  en  la  Ley  de  Protección  al  Consumidor,  deberá",
+            "informar a los usuarios de sus servicios, utilizando un lenguaje comprensible, a través de su sitio de",
+            "internet o a través de cualquier otra forma de acceso público, los términos precisos y condiciones para",
+            "el uso de los servicios y, en particular, de cualquier limitación sobre su responsabilidad, así como de",
+            "los procedimientos especiales existentes para resolver cualquier controversia; (1)",
+            "m)  Dar aviso a la Fiscalía General de la República, cuando en el desarrollo de sus actividades tenga",
+            "indicios de la comisión de un delito; (1)",
+            "n)   Informar  a  la  Unidad  de  Firma  Electrónica,  sobre  incidentes  de  seguridad  de  la  información  y",
+            "ciberseguridad  que  afecten  a  los  servicios  brindados  por  el  proveedor,  en  el  momento  que  tenga",
+            "conocimiento sobre el incidente materializado, por el medio que tenga disponible y que, de acuerdo a",
+            "su análisis de riesgos, exceda los límites de riesgos, haciendo una breve descripción del incidente, que",
+            "incluya la información general que tenga a su disposición sobre la posible causa e impacto y acciones",
+            "ejecutadas. Posteriormente el proveedor, diez (10) días hábiles después de haber reportado el referido",
+            "incidente, deberá remitir completa la documentación siguiente: (1)",
+            "1.   Fecha y hora de inicio de ocurrencia; (1)",
+            "2.   Fecha y hora de fin de ocurrencia, si hubiere terminado el incidente; (1)",
+            "3.   Descripción del incidente; (1)",
+            "4.   Causas de las fallas; (1)",
+            "5.   Diagnóstico técnico; (1)",
+            "6.   Servicios afectados; (1)",
+            "7.   Usuarios afectados; (1)",
+            "8.   Tiempo fuera de servicio; (1)",
+            "9.   Impacto ocasionado; y, (1)",
+            "10.  Acciones correctivas ejecutadas y/o plan de acción a imple mentar por esa entidad para solventar",
+            "las causas que originaron el o los incidentes, así como para prevenirlos en el futuro. (1)",
+            "o)   Informar a los usuarios del servicio afectado, sobre los incidentes de seguridad de la información o",
+            "ciberseguridad que hubiesen afectado la confidencialidad o integridad de su información, así como las",
+            "medidas adoptadas para mitigar el incidente; (1)",
+            "p)   Conservar la información relevante sobre los datos emitidos y recibidos por el Proveedor de Servicios",
+            "de Certificación que pueda proporcionar prueba en procesos judiciales, por un periodo mínimo de",
+            "quince (15) años a partir del cese de actividades o traspaso de certificados a otro proveedor acreditado;",
+            "y, (1)",
+            "q)   Cumplir con las demás obligaciones establecidas en esta ley, y otras leyes especiales. (1)",
+            "",
+            "Cese de actividades."
+        ]
+    },
+    {
+        "number": "Art.  55.",
+        "content": [
+            "- Todo prestador de servicios de almacenamiento de documentos electrónicos, que decida cesar en",
+            "su  actividad,  deberá  comunicarlo  a  la  Unidad  de  Firma  Electrónica,  siguiendo  el  tiempo  y  procedimiento"
+        ]
+    },
+    {
+        "number": "Art.  51",
+        "content": [
+            "de esta ley.",
+            "",
+            "Responsabilidad de los prestadores de servicios."
+        ]
+    },
+    {
+        "number": "Art.  56.",
+        "content": [
+            "- El prestador de servicios de almacenamiento de documentos electrónicos, responderá por los",
+            "daños y perjuicios que ocasionen a los usuarios por el incumplimiento de las obligaciones que se establecen en",
+            "",
+            "",
+            "esta ley, su reglamento, y normas y reglamentos técnicos, correspondiéndole al prestador del servicio demostrar",
+            "que no ha incumplido ninguna de sus obligaciones.",
+            "El proveedor de servicios de almacenamiento también asume la obligación de resarcir por actos imputables",
+            "a  terceros,  que  hayan  sido  encargados  por  él  para  la  realización  de  servicios  en  el  cumplimiento  de  sus",
+            "funciones.",
+            "Para la responsabilidad por daños y perjuicios, se observará las reglas del Derecho Común; sin embargo,",
+            "le corresponderá al proveedor de servicios de certificación probar la debida diligencia.",
+            "",
+            "CAPÍTULO VI",
+            "DE LOS CERTIFICADOS ELECTRÓNICOS",
+            "",
+            "Garantía de la Autoría del Certificado Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  57.",
+        "content": [
+            "- El certificado electrónico garantiza la autoría de la firma electrónica certificada, sello electrónico,",
+            "sello de tiempo y autenticación de sitio web, así como la autenticidad, integridad y no repudiación. (1)",
+            "",
+            "Contenido del Certificado Electrónico"
+        ]
+    },
+    {
+        "number": "Art.  58.",
+        "content": [
+            "- Todo certificado electrónico deberá contener al menos, la siguiente información: (1)",
+            "a)   Identificación del titular del certificado electrónico. En caso que la calidad de titular y signatario no",
+            "concurran en una misma persona, éste último también deberá de ser identificado; (1)",
+            "b)   Identificación del proveedor de servicios de certificación que proporciona el certificado electrónico,",
+            "indicando su domicilio, correo electrónico y número de proveedor proporcionado por la Unidad de Firma",
+            "Electrónica al momento de su registro; (1)",
+            "c)   Fecha de emisión y expiración del certificado; (1)",
+            "d)   Número de serie o de identificación de! certificado; (1)",
+            "e)   La firma electrónica certificada o sello electrónico del prestador de servicios de certificación que emitió",
+            "el certificado; (1)",
+            "f)   Datos  de  verificación  de  la  firma  electrónica  certificada  o  sello  electrónico,  los  cuales  deben",
+            "corresponder a la información de su creación y que están bajo el control del titular; (1)",
+            "g)   Cualquier información relativa a las limitaciones de uso y responsabilidad a las que esté sometido el",
+            "certificado electrónico; (1)",
+            "h)   Indicación de la ruta de certificación; y, (1)",
+            "i)   Si el certificado ha sido emitido por una persona que ha actuado en representación de una persona",
+            "natural o jurídica; en tal caso, el certificado deberá incluir una indicación del documento legal, público,",
+            "o privado autenticado, que acredite de forma fehaciente las facultades del firmante para actuar en",
+            "nombre de la persona física o jurídica a la que representa. (1)",
+            "La falta de alguno de estos requisitos invalidará el certificado. (1)",
+            "",
+            "Identificación del Usuario (1)"
+        ]
+    },
+    {
+        "number": "Art.  58-",
+        "content": [
+            "A.- El proveedor de servicios de certificación deberá comprobar fehacientemente la identidad del",
+            "solicitante, antes de la emisión del certificado electrónico. Dicha comprobación la podrá hacer valiéndose de",
+            "alguno de los métodos siguientes: (1)",
+            "",
+            "",
+            "1.   Mediante presencia física: este método de identificación exigirá la presencia física del solicitante de un",
+            "certificado electrónico, ante la persona encargada de verificarlo y se acreditará, mediante el documento",
+            "de identificación emitido por la autoridad correspondiente. (1)",
+            "2.   Mediante identificación a distancia: este método de identificación del solicitante se realizará utilizando",
+            "medios y sistemas tecnológicos seguros por parte del prestador del servicio de certificación. La Unidad",
+            "de  Firma  Electrónica  determinará  las  condiciones  y requisitos  de  seguridad  aplicables  a  dichos",
+            "sistemas. (1)",
+            "3.   Mediante el uso de un certificado electrónico de firma certificada, o sello electrónico, siempre y cuando",
+            "el periodo de tiempo transcurrido desde la identificación realizada conforme al numeral 1 o 2 de este",
+            "artículo, fuese menor a cinco años. (1)",
+            "4.   Mediante identificaciones previas de los solicitantes de los certificados electrónicos, que ya constaran",
+            "al prestador de los servicios de certificación, en virtud de una relación previa, siempre que el periodo",
+            "trascurrido desde la identificación realizada conforme al numeral 1 o 2 de este artículo, fuese menor a",
+            "cinco años. (1)",
+            "",
+            "Vigencia del Certificado Electrónico."
+        ]
+    },
+    {
+        "number": "Art.  59.",
+        "content": [
+            "- El proveedor de servicios de certificación y el signatario, de mutuo acuerdo, determinarán el plazo",
+            "de vigencia del certificado electrónico.",
+            "",
+            "Revocación del Certificado Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  60.",
+        "content": [
+            "-  El  certificado  electrónico  puede  ser  revocado  por  resolución  judicial,  de  conformidad  con  el",
+            "ordenamiento  legal.  Asimismo,  puede  ser  revocado  por  resolución  razonada  emitida  por  el  Ministerio  de",
+            "Economía a través de la Unidad de Firma Electrónica, en cualquiera de los supuestos siguientes: (1)",
+            "a)   Que se compruebe que alguno de los datos del certificado electrónico es falso; (1)",
+            "b)   Que sea violentado el sistema de seguridad del proveedor de servicios de certificación o de la Autoridad",
+            "Certificadora Raíz, y que afecte la integridad y confiabilidad del certificado; (1)",
+            "c)   Que  el  signatario  dé  aviso  al  proveedor,  de  la  destrucción  o  extravío  del  certificado  electrónico  o",
+            "compromiso de la clave privada, este procederá inmediatamente a la revocación del certificado. Que",
+            "el  proveedor  dé  aviso  a  la  Unidad  de  Firma  Electrónica,  en  caso  de  destrucción  o  extravío  del",
+            "certificado electrónico o que éste haya comprometido la clave privada, en tal caso, la Unidad de Firma",
+            "Electrónica procederá inmediatamente a la revocación del certificado; y, (1)",
+            "d)   Por fallecimiento, o muerte presunta, previa resolución judicial. Para el caso de persona jurídica en el",
+            "cese de sus actividades, por disolución. (1)",
+            "",
+            "Procedimiento para la Revocación de un Certificado Electrónico (1)"
+        ]
+    },
+    {
+        "number": "Art.  61.",
+        "content": [
+            "- El Ministerio de Economía por medio de la Unidad de Firma Electrónica, previa denuncia del",
+            "interesado o de oficio ordenará, audiencia por diez días hábiles al proveedor de servicios de certificación, y con",
+            "lo que conteste o no, se abrirá a pruebas por ocho días hábiles, a fin de demostrar cualquiera de las situaciones",
+            "consideradas en el artículo anterior; finalizado el término probatorio, la Unidad de Firma Electrónica emitirá",
+            "resolución  razonada,  en  un  plazo  no  mayor  de  diez  días  hábiles,  para  que  determine  si  es  procedente  la",
+            "revocación del certificado que ampara la firma electrónica. (1)",
+            "En  cuanto  a  los  medios  de  impugnación,  se  estará  a lo  dispuesto  en  la  Ley  de  Procedimientos",
+            "Administrativos. (1)",
+            "",
+            "",
+            "",
+            "CAPITULO VII",
+            "DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS DE LOS SERVICIOS DE CERTIFICACIÓN Y",
+            "ALMACENAMIENTO DE DOCUMENTOS ELECTRÓNICOS (1)",
+            "",
+            "Derechos de los usuarios."
+        ]
+    },
+    {
+        "number": "Art.  62.",
+        "content": [
+            "- Además de los derechos reconocidos por la Ley de Protección al Consumidor y cualquier otra",
+            "normativa  aplicable,  los  usuarios  o  titulares  de  los  servicios  regulados  en  esta  ley,  tendrán  los  siguientes",
+            "derechos, según sea el caso: (1)",
+            "a)   A  ser  informados  por  los  proveedores  de  servicios,  de  las  características  generales  de  los",
+            "procedimientos de firma electrónica certificada, sello electrónico, sello de tiempo, autenticación de sitio",
+            "web y almacenamiento de documentos electrónicos, así como de las reglas sobre prácticas, y los",
+            "demás que éstos se comprometan a seguir en la prestación de los servicios, lo que deberá realizarse",
+            "de forma previa a la adquisición del servicio; (1)",
+            "b)   A la confidencialidad en la información, en los supuestos en que los proveedores de servicios de",
+            "certificación, y de almacenamiento de documentos electrónicos decidan cesar en sus actividades; (1)",
+            "c)   A ser informados de los precios de los servicios, incluyendo cargos adicionales y formas de pago, en",
+            "su caso; de las condiciones precisas para la utilización de los servicios y de sus limitaciones de uso, y",
+            "de los procedimientos de reclamación y de resolución de litigios; (1)",
+            "d)   A que el prestador de servicios le proporcione la información sobre su domicilio en el país; (1)",
+            "e)   A  ser  informado,  al  menos  con  noventa  días  de  anticipación,  por  los  prestadores  de  servicios  de",
+            "certificación, y almacenamiento de documentos electrónicos, para los efectos del cierre de actividades;",
+            "(1)",
+            "f)   A  traspasar  sus  datos  a  otro  prestador  de  servicios  de  certificación  y  de  almacenamiento  de",
+            "documentos electrónicos, si así lo solicitan; (1)",
+            "g)   A  que  el  proveedor  no  proporcione  u otorgue  servicios no  solicitados;  deteriorar la calidad  de  los",
+            "servicios contratados en calidad de inferioridad; o servicios adicionales cobrados no pactados; a no",
+            "recibir publicidad comercial de ningún tipo por intermedio del proveedor, salvo autorización expresa",
+            "del usuario en todos los casos señalados; y, (1)",
+            "h)   La revocación del certificado por petición del usuario o su representante legal. (1)",
+            "La violación a los derechos previstos en este artículo constituye infracción grave en los términos señalados",
+            "en la Ley de Protección al Consumidor. (1)",
+            "La  determinación de la infracción  y  la  imposición  de  la sanción correspondiente  será competencia  del",
+            "Tribunal Sancionador de la Defensoría del Consumidor, y de acuerdo con el procedimiento previsto en la Ley",
+            "de Protección al Consumidor y en la Ley de Procedimientos Administrativos, en lo que fuere aplicable. (1)",
+            "",
+            "Obligaciones de los Usuarios"
+        ]
+    },
+    {
+        "number": "Art.  63.",
+        "content": [
+            "- Los usuarios o titulares de firmas electrónicas certificadas, sellos electrónicos, sellos de tiempo, y",
+            "de almacenamiento de documentos electrónicos, quedarán obligados en el momento de proporcionar los datos",
+            "de su identidad personal u otras circunstancias objeto de certificación o almacenamiento, a: (1)",
+            "a)   Brindar declaraciones veraces y completas; (1)",
+            "b)   Custodiar  adecuadamente  los  mecanismos  de  seguridad  del  funcionamiento  del  sistema  que  le",
+            "proporcione el prestador y actualizar sus datos en la medida que éstos vayan cambiando, so pena de",
+            "responder  por  la  indemnización  de  daños  y  perjuicios  derivada  del  incumplimiento  de  estas",
+            "obligaciones; y, (1)",
+            "",
+            "",
+            "c)   Solicitar oportunamente la suspensión o revocación del certificado, ante cualquier circunstancia que",
+            "pueda haber comprometido la privacidad de los datos de creación de firma electrónica certificada o",
+            "sello electrónico. (1)",
+            "",
+            "TÍTULO IV",
+            "",
+            "CAPÍTULO ÚNICO",
+            "DE LAS INFRACCIONES Y SANCIONES",
+            "",
+            "Infracciones  aplicables  a  los  proveedores  de  servicios  de  certificación,  y  de  almacenamiento  de",
+            "documentos electrónicos."
+        ]
+    },
+    {
+        "number": "Art.  64.",
+        "content": [
+            "- Los Proveedores de Servicios de Certificación y los Proveedores de Servicios de Almacenamiento",
+            "de Documentos Electrónicos, acreditados por la Unidad de Firma Electrónica del MINEC, estarán sujetos al",
+            "régimen sancionador establecido en esta ley. (1)",
+            "",
+            "Clasificación de las Infracciones"
+        ]
+    },
+    {
+        "number": "Art.  65",
+        "content": [
+            "Las  infracciones  de  los  prestadores,  tanto de  servicios  de  certificación  de  firmas  electrónicas",
+            "certificadas, como de servicio de almacenamiento de documentos electrónicos, se clasificarán en leves, graves",
+            "y muy graves.",
+            "1.   Se consideran infracciones leves:"
+        ]
+    },
+    {
+        "number": "artículo  58",
+        "content": [
+            "de esta ley;",
+            "(1)"
+        ]
+    },
+    {
+        "number": "Art.  14",
+        "content": [
+            "de  esta  ley  para  el  almacenamiento  de",
+            "documentos  electrónicos  cuando  el  servicio  sea  otorgado  por  los  prestadores  de  servicio",
+            "acreditados por la Unidad de Firma Electrónica.",
+            "c)   No poner a disposición del público la declaración de prácticas y políticas, publicar una declaración",
+            "de prácticas y políticas que no refleja su situación real o que no haya sido aprobada por la Unidad",
+            "de Firma Electrónica; (1)"
+        ]
+    },
+    {
+        "number": "Art.  26",
+        "content": [
+            "de esta Ley.",
+            "e)   Omitir el registro de los certificados expedidos.",
+            "f)   Omitir  la  revocación  y  suspensión,  en  forma  o  tiempo,  de  un  certificado  cuando  corresponda",
+            "hacerlo.",
+            "g)   Incumplir lo establecido en las normas y reglamentos técnicos emitidos por la Unidad de Firma",
+            "Electrónica.",
+            "2.   Se consideran infracciones graves:",
+            "a)   El incumplimiento de los prestadores de servicios, de las obligaciones establecidas para el cese",
+            "de su actividad.",
+            "b)   La  negativa  u  obstrucción  injustificada,  a  la  inspección  o  auditoría  de  la  Unidad  de  Firma",
+            "Electrónica, así como la falta o deficiente presentación de la información solicitada por la misma,",
+            "en su función de supervisión y control; (1)",
+            "c)   El incumplimiento de las resoluciones y reglamentos de esta ley, emitidos por el MINEC.",
+            "",
+            "",
+            "d)   No suplir las deficiencias económicas o técnicas que motivaren las acciones previstas en el Art.",
+            "49 de la presente ley.",
+            "e)   No renovar las garantías exigidas con el objetivo de garantizar daños y perjuicios que pudieran",
+            "ocasionarse  a  los  usuarios  de  servicios  de  certificación  y de  almacenamiento de documentos",
+            "electrónicos.",
+            "f)   Perder  la  capacidad  tecnológica  para  emitir,  suspender,  renovar,  modificar,  traspasar  a  otros",
+            "proveedores o revocar los certificados electrónicos que proporcione, según dictamen emitido por",
+            "la Unidad de Firma Electrónica; y, (1)",
+            "g)   Brindar información falsa, cuando sea solicitada por la Unidad de Firma Electrónica.",
+            "3.   Se consideran infracciones muy graves:",
+            "a)   Violar el secreto de la comunicación amparada con firma electrónica de sus usuarios.",
+            "b)   Revelar información personal de sus clientes a terceros, sin el consentimiento expreso de éstos,",
+            "salvo en los casos en que está obligado por ley."
+        ]
+    },
+    {
+        "number": "Art.  5",
+        "content": [
+            "de  esta  ley  sobre  el  tratamiento  de  datos",
+            "personales.",
+            "d)   El incumplimiento de alguna de las obligaciones establecidas en esta ley, cuando una sentencia",
+            "judicial o administrativa establezca que se hayan causado perjuicios económicos a los usuarios o",
+            "a terceros.",
+            "",
+            "Sanciones."
+        ]
+    },
+    {
+        "number": "Art.  66.",
+        "content": [
+            "- Por la comisión de las infracciones establecidas en el artículo anterior, el MINEC por medio de la",
+            "Unidad de Firma Electrónica, impondrá las siguientes sanciones:",
+            "a)   Multa  de  1  a  10  salarios  mínimos  mensuales  del  sector  comercio  y  servicio,  por  la  comisión  de",
+            "infracciones leves.",
+            "b)   Multa  de  11  a  50  salarios  mínimos  mensuales  del sector  comercio  y  servicio,  por  la  comisión  de",
+            "infracciones graves.",
+            "c)   Multa de 51 a 100 salarios mínimos mensuales del sector comercio y servicio, por la comisión de",
+            "infracciones muy graves.",
+            "La reiteración, en el plazo de dos años, de dos o más infracciones muy graves sancionadas con carácter",
+            "firme, dará lugar a la cancelación definitiva de la prestación de servicios de certificación de firmas electrónicas,",
+            "y de servicios de almacenamiento de documentos electrónicos.",
+            "La infracción muy grave, una vez levantada la prohibición a que hace referencia este artículo, conllevará la",
+            "cancelación  definitiva  de  la  prestación  de  servicios  de  certificación  y/o  almacenamiento  de  documentos",
+            "electrónicos, según corresponda. (1)",
+            "Para el establecimiento de las sanciones se tomará en cuenta la gravedad de las infracciones, así como su",
+            "reincidencia y el daño causado al consumidor.",
+            "",
+            "Procedimiento. (1)"
+        ]
+    },
+    {
+        "number": "Art.  67.",
+        "content": [
+            "-  Para  la  imposición  de  las  sanciones  por  infracciones  a  la  presente  ley,  la  Unidad  de  Firma",
+            "Electrónica instruirá el expediente respectivo mediante resolución razonada, la cual contendrá la identificación",
+            "de la persona o personas denunciantes, si hubiere; la identificación del proveedor presuntamente responsable;",
+            "una relación sucinta de los hechos que motivan el inicio del procedimiento, así como de los elementos que haya",
+            "recabado la Unidad y que hayan motivado la emisión de tal resolución; y, la indicación del derecho del presunto",
+            "responsable de formular alegaciones y presentar prueba de descargo. (1)",
+            "",
+            "",
+            "El procedimiento sancionatorio por infracciones a la presente ley, será tramitado de acuerdo a las reglas",
+            "del procedimiento simplificado, previstas en el Título V, Capitulo II de la Ley de Procedimientos Administrativos,",
+            "en lo que fueren aplicables. (1)",
+            "En cuanto a los medios de impugnación conferidos, se estará a lo previsto en las reglas previstas en el",
+            "procedimiento simplificado y demás normas aplicables de la Ley de Procedimientos Administrativos. (1)",
+            "",
+            "TÍTULO V",
+            "",
+            "CAPÍTULO ÚNICO",
+            "DISPOSICIONES FINALES",
+            "",
+            "Reglamento de aplicación de la ley y sus Normas y reglamentos Técnicos."
+        ]
+    },
+    {
+        "number": "Art.  68.",
+        "content": [
+            "- El Presidente de la República deberá emitir el Reglamento de Aplicación de esta Ley, en un plazo",
+            "no mayor a ciento ochenta días contados a partir de su vigencia.",
+            "La Unidad de Firma Electrónica emitirá, las normas y reglamentos técnicos, en un plazo no mayor a ciento",
+            "ochenta días a partir de la vigencia de la misma.",
+            "",
+            "Prevalencia sobre otras leyes"
+        ]
+    },
+    {
+        "number": "Art.  69.",
+        "content": [
+            "- Las disposiciones de la presente ley, prevalecerán sobre cualquier otra que la contraríen.",
+            "",
+            "Disposición transitoria."
+        ]
+    },
+    {
+        "number": "Art.  70.",
+        "content": [
+            "- Toda persona natural o jurídica, que al momento de entrar en vigencia la presente ley se encuentre",
+            "brindando servicios de certificación o almacenamiento de documentos electrónicos, contará con un plazo no",
+            "mayor a un año para adecuarse al cumplimiento de los requerimientos establecidos por la misma, a fin de",
+            "continuar brindando dicho servicio.",
+            "",
+            "Vigencia."
+        ]
+    },
+    {
+        "number": "Art.  71.",
+        "content": [
+            "- El presente Decreto entrará en vigencia ciento ochenta días después de su publicación en el Diario",
+            "Oficial.",
+            "",
+            "DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, uno de octubre de dos mil",
+            "quince.",
+            "",
+            "LORENA GUADALUPE PEÑA MENDOZA",
+            "PRESIDENTA",
+            "",
+            "GUILLERMO ANTONIO GALLEGOS NAVARRETE",
+            "PRIMER VICEPRESIDENTE",
+            "",
+            "ANA VILMA ALBANEZ DE ESCOBAR",
+            "SEGUNDA VICEPRESIDENTA",
+            "",
+            "JOSE SERAFIN ORANTES RODRIGUEZ",
+            "",
+            "",
+            "TERCER VICEPRESIDENTE",
+            "",
+            "NORMAN NOEL QUIJANO GONZALEZ",
+            "CUARTO VICEPRESIDENTE",
+            "",
+            "SANTIAGO FLORES ALFARO",
+            "QUINTO VICEPRESIDENTE",
+            "",
+            "GUILLERMO FRANCISCO MATA BENNETT",
+            "PRIMER SECRETARIO",
+            "",
+            "DAVID ERNESTO REYES MOLINA",
+            "SEGUNDO SECRETARIO",
+            "",
+            "MARIO ALBERTO TENORIO GUERRERO",
+            "TERCER SECRETARIO",
+            "",
+            "REYNALDO ANTONIO LOPEZ CARDOZA",
+            "CUARTO SECRETARIO",
+            "",
+            "JACKELINE NOEMI RIVERA AVALOS",
+            "QUINTA SECRETARIA",
+            "",
+            "JORGE ALBERTO ESCOBAR BERNAL",
+            "SEXTO SECRETARIO",
+            "",
+            "ABILIO ORESTES RODRIGUEZ MENJIVAR",
+            "SEPTIMO SECRETARIO",
+            "",
+            "JOSE FRANCISCO MERINO LOPEZ",
+            "OCTAVO SECRETARIO",
+            "",
+            "CASA PRESIDENCIAL: San Salvador, a los veintiún días del mes de octubre del año dos mil quince.",
+            "",
+            "PUBLIQUESE,",
+            "",
+            "SALVADOR SANCHEZ CEREN,",
+            "Presidente de la República.",
+            "",
+            "THARSIS SALOMON LOPEZ GUZMAN,",
+            "Ministro de Economía",
+            "",
+            "REFORMAS:",
+            "(1) Decreto Legislativo No. 100 de fecha 20 de julio de 2021, publicado en el Diario Oficial No. 148, Tomo 432",
+            "de fecha 06 de agosto de 2021."
+        ]
+    }
+]

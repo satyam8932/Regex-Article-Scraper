@@ -1,0 +1,22 @@
+{
+  "name": "data_extraction",
+  "version": "1.0.0",
+  "description": "a script to extract data from pdf using openai gpt-4 turbo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.10.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.36",
+    "nodemon": "^3.1.0",
+    "openai": "^4.40.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdf-poppler": "^0.2.1"
+  }
+}

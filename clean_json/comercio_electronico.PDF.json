@@ -1,0 +1,484 @@
+[
+  {
+    "number": "artículo  101",
+    "content": [
+      "de la Constitución establece que: “El Estado promoverá el",
+      "desarrollo económico y social mediante el incremento de la producción, la productividad y la racional",
+      "utilización de los recursos. Con igual finalidad, fomentará los diversos sectores de la producción y",
+      "defenderá el interés de los consumidores”."
+    ]
+  },
+  {
+    "number": "artículo  102",
+    "content": [
+      "de la Constitución dispone que: “Se garantiza la libertad económica, en lo que no",
+      "se  oponga  al  interés  social.  El  Estado  fomentará  y protegerá  la  iniciativa  privada  dentro  de  las",
+      "condiciones necesarias para acrecentar la riqueza nacional y para asegurar los beneficios de ésta al",
+      "mayor número de habitantes del país”.",
+      "III.  Que, en los últimos años, las Tecnologías de la Información y Comunicación –TIC-, han cambiado la",
+      "vida de las personas y la forma de hacer negocios, transformando el mundo mediante su combinación",
+      "con internet; siendo común en la actualidad, que se acuerden contratos y se adopten decisiones a",
+      "través de este medio que facilita la vida cotidiana y posibilita la realización de transacciones de bienes",
+      "y servicios, a un menor costo de tiempo y dinero.",
+      "IV.  Que desde la aprobación de la Ley de Firma Electrónica, contenida en el Decreto Legislativo n. ° 133,",
+      "de fecha uno de octubre de 2015, publicado en el Diario Oficial n. ° 196, Tomo n. ° 409, de fecha 26",
+      "del mismo mes y año, se ha realizado un esfuerzo por emitir normativa que garantice no sólo el uso de",
+      "las tecnologías de información y comunicación, sino que además las buenas prácticas internacionales",
+      "de comercio electrónico, a fin de identificar los posibles obstáculos o barreras que deben superarse",
+      "mediante la emisión de una ley marco que establezca los principios o bases sobre las que se va a",
+      "desarrollar dicha materia.",
+      "V.   Que es necesario crear un marco legal para brindar seguridad jurídica tanto a los comerciantes como",
+      "a los usuarios que utilizan estas tecnologías, buscando incentivar a nuevas empresas a incursionar en",
+      "las mismas, generando confianza para hacer uso de las transacciones en línea.",
+      "POR TANTO,",
+      "en uso de sus facultades constitucionales y a iniciativa de los diputados y las diputadas: Margarita Escobar,",
+      "Douglas  Antonio  Cardona  Villatoro,  Julio  Cesar  Fabián  Pérez,  Karla  Elena  Hernandez  Molina,  José  Javier",
+      "Palomo Nieto, Carlos Armando Reyes Ramos y Francisco José Zablah Safie; y del diputado de la legislatura",
+      "2009-2012: Douglas Leonardo Mejía Avilés.",
+      "DECRETA, la siguiente:",
+      "“LEY DE COMERCIO ELECTRÓNICO”",
+      "CAPÍTULO PRELIMINAR",
+      "DISPOSICIONES GENERALES",
+      "Objeto"
+    ]
+  },
+  {
+    "number": "Art.  1.",
+    "content": [
+      "- La presente ley tiene por objeto establecer un marco legal de las relaciones electrónicas de índole",
+      "comercial, contractual, realizadas por medios digitales, electrónicos o tecnológicamente equivalentes.",
+      "Ámbito de Aplicación"
+    ]
+  },
+  {
+    "number": "Art.  2.",
+    "content": [
+      "- La presente ley es aplicable a todo tipo de relación contractual, de carácter comercial o factible de",
+      "beneficio económico, celebrados de forma electrónica, digital o tecnológicamente equivalente, con excepción"
+    ]
+  },
+  {
+    "number": "artículo  5",
+    "content": [
+      "de la presente ley.",
+      "Sujetos obligados"
+    ]
+  },
+  {
+    "number": "Art.  3.",
+    "content": [
+      "- Esta ley será de aplicación a toda persona natural o jurídica, pública o privada establecida en El",
+      "Salvador, que realice por sí mismo o por medio de intermediarios transacciones comerciales o intercambio de",
+      "bienes o servicios contractuales, mediante la utilización de cualquier clase de tecnología o por medio de redes",
+      "de comunicación interconectadas.",
+      "Cuando los proveedores de bienes y servicios se encuentren establecidos fuera del territorio nacional, se",
+      "regulará conforme a los convenios o tratados internacionales que resulten de aplicación.",
+      "No se constituye presunción de estar establecido en El Salvador, por el simple hecho del uso de medios",
+      "tecnológicos situados en El Salvador para la prestación o acceso al servicio.",
+      "Principios especiales"
+    ]
+  },
+  {
+    "number": "Art.  4.",
+    "content": [
+      "- Las actividades reguladas en la presente ley, se regirán por los siguientes principios:",
+      "a)  Principio de equivalencia funcional: Consiste en observar en los documentos electrónicos derivados",
+      "de las transacciones, el mismo valor, requisitos y formalidades, que son exigibles en los realizados",
+      "materialmente.",
+      "b)  Principio de neutralidad tecnológica: Consiste en no comprometer o discriminar el sistema jurídico",
+      "a una determinada tecnología, permitiendo que las operaciones de comercio electrónico accedan a",
+      "actualizaciones  destinadas  a  mantener  su  eficiencia  de  empleo,  operación,  almacenamiento  y",
+      "mecanismos de transmisión.",
+      "c)  Principio de no repudiación: Consiste en que los contratos convenidos a través de firma electrónica",
+      "o de un sistema de información determinado de conformidad con esta ley, no sean rechazados por el",
+      "hecho de estar contenidos en soporte electrónico.",
+      "Exclusiones"
+    ]
+  },
+  {
+    "number": "Art.  5.",
+    "content": [
+      "- La presente ley no será aplicable a las comunicaciones electrónicas relacionadas con:",
+      "a)   El  intercambio  de  información  por  medio  de  correo  electrónico  u  otro  medio  de  comunicación",
+      "electrónica equivalente para fines ajenos a la actividad económica de quienes lo utilizan.",
+      "b)   Las  relaciones  entre  los  proveedores  y  consumidores  reguladas  en  la  Ley  de  Protección  al",
+      "Consumidor.",
+      "Definiciones"
+    ]
+  },
+  {
+    "number": "Art.  6.",
+    "content": [
+      "- Para efectos de la presente ley, se entenderá por:",
+      "a)  Comunicación comercial electrónica: Toda forma de comunicación que las partes hagan por medio",
+      "de mensaje de datos, con el fin de comercializar bienes y servicios.",
+      "b)  Proveedor de servicio de intermediación electrónica: Persona natural o jurídica que posibilita el",
+      "acceso y la operatividad de cualquiera de los componentes, fases y elementos del proceso de comercio",
+      "electrónico, facilitando la prestación o utilización de otros servicios de comercio electrónico o el acceso",
+      "a la información. Siendo estos servicios de intermediación: la realización de copia temporal de las",
+      "páginas de internet solicitadas por los usuarios, el alojamiento en los propios servidores de datos,",
+      "aplicaciones o servicios suministrados por otros, la provisión de instrumentos de búsqueda, acceso y",
+      "recopilación de datos o de enlaces a otros sitios de internet.",
+      "c)  Usuario: Toda persona natural o jurídica que por medios electrónicos contrate bienes o servicios, o",
+      "reciba oferta de los mismos.",
+      "d)  Vía electrónica: Son los medios ópticos o cualquier otra tecnología a través de los cuales se realizan",
+      "las transacciones comerciales.",
+      "e)  Factura electrónica: Es el comprobante electrónico de pago que deberán emitir los proveedores de",
+      "bienes y servicios usuarios de comercio electrónico, a quienes realicen transacciones comerciales con",
+      "ellos, de conformidad con la legislación pertinente.",
+      "f)   Proveedor: Persona  natural  o  jurídica  que  desarrolle  actividades  de  producción,  fabricación,",
+      "importación y comercialización de bienes o servicios.",
+      "CAPÍTULO I",
+      "DE LAS COMUNICACIONES COMERCIALES ELECTRÓNICAS",
+      "Efectos jurídicos de las comunicaciones comerciales electrónicas"
+    ]
+  },
+  {
+    "number": "Art.  7.",
+    "content": [
+      "- La información generada o comunicada que conste en medios electrónicos, ópticos, magnéticos o",
+      "en cualquier otra tecnología, tendrá los mismos efectos jurídicos, validez y fuerza probatoria que la contenida",
+      "en formato físico.",
+      "Como criterio para valorar la fuerza probatoria de la información a que se refiere el inciso anterior, se tendrá",
+      "en consideración la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada; si es",
+      "posible, atribuir a las personas obligadas el contenido de la información y si ésta es accesible para su posterior",
+      "consulta.",
+      "Uso de tecnología para constatación por escrito"
+    ]
+  },
+  {
+    "number": "Art.  8.",
+    "content": [
+      "- Cuando se requiera que una comunicación o contrato se haga constar por escrito, este requisito se",
+      "tendrá por cumplido cuando se realice a través de soporte electrónico y siempre que sea accesible para su",
+      "posterior consulta.",
+      "De la misma manera, si un acto o contrato requiera que el mismo se encuentre firmado por las partes",
+      "intervinientes, tal requerimiento se cumplirá mediante el uso de firma electrónica, de conformidad a la Ley de",
+      "Firma Electrónica.",
+      "Tiempo de envío y recepción de comunicaciones comerciales electrónicas"
+    ]
+  },
+  {
+    "number": "Art.  9.",
+    "content": [
+      "- La comunicación comercial electrónica se tendrá por expedida en el momento en que salga de un",
+      "sistema de información de datos que esté bajo el control del iniciador o de la parte que la envíe en nombre de",
+      "este, y se tendrá por recibida en el momento en el que ingrese en un sistema de información de datos que el",
+      "destinatario haya designado.",
+      "De no convenir otra cosa el iniciador y el destinatario, el momento de recepción de un mensaje de datos se",
+      "determinará de la siguiente manera:",
+      "a)   Si el destinatario ha designado un sistema de información para la recepción de mensajes de datos, la",
+      "recepción tendrá lugar:",
+      "i)   En el momento en que entre el mensaje de datos en el sistema de información designado.",
+      "ii)   De enviarse el mensaje de datos a un sistema de información del destinatario que no sea el",
+      "sistema de información designado, en el momento en que el destinatario recupere el mensaje de",
+      "datos.",
+      "b)   Si el destinatario no ha designado un sistema de información, la recepción tendrá lugar al entrar el",
+      "mensaje de datos en un sistema de información del destinatario.",
+      "Lo establecido en el inciso anterior, será aplicable aun cuando el sistema de información esté ubicado en",
+      "un lugar distinto de donde se tenga por recibido el mensaje conforme a lo dispuesto en el siguiente inciso.",
+      "De no convenir otra cosa el iniciador y el destinatario, el mensaje de datos se tendrá por expedido en el",
+      "lugar donde el iniciador tenga su establecimiento y por recibido en el lugar donde el destinatario tenga el suyo,",
+      "tomando en cuenta los siguientes fines:",
+      "i)   Si el iniciador o el destinatario tienen más de un establecimiento, su establecimiento será el que",
+      "guarde una relación más estrecha con la operación subyacente o, de no haber una operación",
+      "subyacente, su establecimiento principal.",
+      "ii)   Si  el  iniciador  o  el  destinatario  no  tienen  establecimiento,  se  tendrá  en  cuenta  su  lugar  de",
+      "residencia habitual.",
+      "Error en las comunicaciones comerciales electrónicas"
+    ]
+  },
+  {
+    "number": "Art.  10.",
+    "content": [
+      "- Cuando se produzca un error al momento de introducir los datos en una comunicación comercial,",
+      "el iniciador tendrá el derecho de retirar dicha comunicación o enviar un mensaje comunicando la equivocación",
+      "al destinatario, a quien se le envío la comunicación errónea o a quien erróneamente se le hizo dicho envío,",
+      "siempre y cuando no se haya producido la aceptación y pago del bien o servicio de parte del receptor, o no haya",
+      "obtenido ningún beneficio adicional si los hubiere.",
+      "Exclusión de comunicación comercial electrónica"
+    ]
+  },
+  {
+    "number": "Art.  11.",
+    "content": [
+      "- No tendrán la consideración de comunicación comercial electrónica, los datos que permitan dar a",
+      "conocer directamente la actividad de una persona, empresa u organización, tales como el nombre de dominio",
+      "o la dirección de correo electrónico; ni las comunicaciones relativas a los bienes, los servicios o la imagen,",
+      "cuando dichas comunicaciones puedan ser consideradas informativas o sean elaboradas por un tercero sin",
+      "contraprestación económica.",
+      "Información  exigida  en  las  comunicaciones  comerciales  electrónicas  sobre  ofertas  o  descuentos",
+      "promocionales"
+    ]
+  },
+  {
+    "number": "Art.  12.",
+    "content": [
+      "-  Las  comunicaciones  comerciales  realizadas  por  vía  electrónica,  que  contengan  ofertas  o",
+      "descuentos  promocionales,  deberán  ser  claramente  identificables  como  tales,  especificando  los  términos,",
+      "condiciones y fecha de vigencia de las mismas.",
+      "El proveedor de bienes o servicios, o en nombre de quien se realice, deberá ser identificable.",
+      "En los casos de concursos o juegos promocionales, previa autorización de la entidad correspondiente, se",
+      "deberá  asegurar,  además  del  cumplimiento  de  los  requisitos  establecidos  en  el  inciso  anterior,  que  las",
+      "condiciones de acceso y de participación sean fácilmente accesibles y se expresen de forma clara e inequívoca.",
+      "De las comunicaciones comerciales electrónicas publicitarias o promocionales no solicitadas"
+    ]
+  },
+  {
+    "number": "Art.  13.",
+    "content": [
+      "- Los proveedores de bienes y servicios que deseen enviar comunicaciones, de carácter publicitario",
+      "o  de  promociones,  y  que  no  cuenten  con  el  previo  consentimiento  del  usuario  para  remitirle  este  tipo  de",
+      "comunicaciones, solo podrán hacerlo si cumplen los siguientes requisitos:",
+      "a)   Indicar  expresamente  en  las  mismas,  que  constituyen  una  comunicación  comercial  electrónica",
+      "publicitaria o promocional no solicitada.",
+      "b)   Incluir en el mensaje una opción sencilla, gratuita y viable para solicitar la exclusión de las listas de",
+      "destinatarios del mismo en cualquier momento.",
+      "c)   Que los datos de los destinatarios hayan sido obtenidos sin infringir los derechos de protección de",
+      "datos personales.",
+      "CAPÍTULO II",
+      "DE LOS CONTRATOS ELECTRÓNICOS",
+      "Validez y eficacia de los contratos celebrados por vía electrónica"
+    ]
+  },
+  {
+    "number": "Art.  14.",
+    "content": [
+      "-  Los  contratos  celebrados  por  vía  electrónica  producirán  todos  los  efectos  previstos  por  el",
+      "ordenamiento jurídico para los contratos, cuando concurran el consentimiento y los demás requisitos legales",
+      "necesarios para su validez; así mismo, deberán cumplir con las obligaciones previstas en la ley.",
+      "Para que el consentimiento se entienda otorgado, éste deberá manifestarse de forma fehaciente, clara,",
+      "comprensible, inalterada e inequívoca, por medio de un sistema automatizado, por medios electrónicos, ópticos",
+      "o por cualquier otra tecnología, aceptando todas las condiciones generales y demás condiciones según el caso",
+      "del contrato, utilizando los medios que para tal efecto ha puesto a disposición el proveedor.",
+      "Obligaciones previas a la contratación"
+    ]
+  },
+  {
+    "number": "Art.  15.",
+    "content": [
+      "-  El  proveedor  de  bienes  y  servicios  que  realice  actividades  de  contratación  electrónica,  está",
+      "obligado a poner a disposición antes de iniciar el procedimiento de contratación y mediante técnicas adecuadas",
+      "al medio de comunicación utilizado, información completa, clara, comprensible e inequívoca. Dicha información",
+      "deberá ser remitida al usuario por el medio acordado de forma permanente, fácil y gratuita, para su impresión o",
+      "descarga, sin perjuicio del cumplimiento de los demás requisitos legales, la cual deberá contener lo siguiente:",
+      "a)   Los pasos que deberán seguirse para celebrar el contrato.",
+      "b)   Los términos y condiciones sobre el producto o servicio a adquirir o tipo de relación que se establecerá;",
+      "debiendo detallar la información que se solicitará del usuario y la forma en que el proveedor almacenará",
+      "y pondrá a disposición del usuario el documento electrónico donde conste la transacción.",
+      "c)   La orden o pedido de los bienes o servicios a adquirir con su descripción, precio individual, precio total",
+      "y de ser aplicable, los gastos adicionales que deba pagar por envío o cualquier otro concepto, según",
+      "aplique.",
+      "d)   Tiempo de entrega de los bienes o servicios.",
+      "e)   Los medios que pone a su disposición para revisar y validar los datos, corregir errores o cancelar la",
+      "transacción.",
+      "f)   Los medios aplicables para resolver controversias.",
+      "g)   El idioma y la forma de pago en que podrá formalizarse el contrato.",
+      "La obligación referida en el primer inciso, se dará por cumplida si el proveedor la incluye en su sitio web en",
+      "las condiciones señaladas o cuando facilite de manera fácil, directa y exacta dicha información. Si la información",
+      "es modificada deberá dejarse constancia de la fecha de cambio, a fin de que estas nuevas condiciones no",
+      "afecten negativamente a las contrataciones efectuadas con antelación.",
+      "Proceso de confirmación"
+    ]
+  },
+  {
+    "number": "Art.  16.",
+    "content": [
+      "- Durante el proceso de compra, antes de pagar, el usuario debe tener la oportunidad de verificar,",
+      "modificar y confirmar su orden o pedido, establecer el lugar de destino, a ser informado de las tarifas que aplican,",
+      "monto a pagar, cargos adicionales por envío y procesamiento de pago, impuestos o aranceles aplicables; así",
+      "como verificar que sus datos personales estén correctos en la orden o pedido y el momento de entrega de su",
+      "compra.",
+      "Obligación de entregar comprobante de transacción"
+    ]
+  },
+  {
+    "number": "Art.  17.",
+    "content": [
+      "- Todo proveedor de productos o servicios que realice el ofrecimiento o venta de los mismos por",
+      "medio  del  uso  de  cualquier  tecnología  o  de  redes  de  comunicación  interconectadas,  una  vez  realizada  la",
+      "transacción, enviará al usuario por vía electrónica el comprobante de pago.",
+      "Factura electrónica"
+    ]
+  },
+  {
+    "number": "Art.  18.",
+    "content": [
+      "- La factura electrónica emitida por los proveedores de bienes y servicios a los usuarios de comercio",
+      "electrónico, tendrá la misma validez contable y tributaria que la factura convencional, siempre que cumplan con",
+      "la legislación pertinente, las normas tributarias y sus disposiciones reglamentarias.",
+      "Contratos celebrados mediante sistemas automatizados"
+    ]
+  },
+  {
+    "number": "Art.  19.",
+    "content": [
+      "- Se reconoce la validez de un contrato celebrado entre un sistema automatizado de mensajes y",
+      "una persona física, así como entre sistemas automatizados de mensajes.",
+      "Seguridad y confidencialidad de la información"
+    ]
+  },
+  {
+    "number": "Art.  20.",
+    "content": [
+      "-  Los  proveedores  de  bienes  y  servicios  por  vía  electrónica  deberán  utilizar  estándares",
+      "especializados, o cualquier herramienta tecnológica disponible para brindar seguridad y confidencialidad a la",
+      "información personal y crediticia proporcionada en las plataformas utilizadas para el comercio electrónico.",
+      "En lo relativo a la protección de datos personales se estará a lo dispuesto en la legislación pertinente; y en",
+      "lo relativo a la información comercial y crediticia, se estará a lo dispuesto en la Ley de Regulación de los",
+      "Servicios de Información sobre el Historial de Crédito de las Personas.",
+      "El proveedor deberá informar el nombre de la entidad certificadora del sitio web, o plataforma electrónica,",
+      "o que no cuenta con certificación.",
+      "Acuse de recibo"
+    ]
+  },
+  {
+    "number": "Art.  21.",
+    "content": [
+      "- El proveedor de bienes y servicios está obligado a confirmar la recepción de la aceptación por",
+      "medio del envío de un acuse de recibo a través de correo electrónico u otro medio de comunicación electrónica",
+      "que el usuario haya señalado.",
+      "CAPÍTULO III",
+      "DE LOS PROVEEDORES DE BIENES Y SERVICIOS",
+      "De las obligaciones"
+    ]
+  },
+  {
+    "number": "Art.  22.",
+    "content": [
+      "- Los proveedores de servicios de intermediación en el ejercicio de sus actividades estarán obligados",
+      "a:",
+      "a)   Informar de forma permanente, fácil, directa y gratuita, sobre los diferentes medios de carácter técnico",
+      "que permitan entre otros, la protección frente a virus informáticos y programas espía.",
+      "b)   Contar con un mecanismo de recepción y gestión de reclamos de forma permanente, fácil, directa y",
+      "gratuita. Esta condición no será aplicable a los proveedores de servicios de acceso a internet o de",
+      "transmisión de datos o redes de telecomunicaciones, quienes se regirán por lo establecido por la Ley",
+      "de Telecomunicaciones.",
+      "Las obligaciones expuestas en el literal a), del primer inciso del presente artículo, se tendrán por cumplidas",
+      "si el proveedor de servicio de intermediación incluye la información exigida en su sitio web.",
+      "Deber de colaboración"
+    ]
+  },
+  {
+    "number": "Art.  23.",
+    "content": [
+      "- Los proveedores de servicios de intermediación estarán obligados a interrumpir la prestación del",
+      "servicio o el acceso a un contenido, cuando la autoridad judicial lo hubiera ordenado en el ejercicio de medidas",
+      "cautelares o en ejecución de resoluciones firmes.",
+      "Excepción de responsabilidad"
+    ]
+  },
+  {
+    "number": "Art.  24.",
+    "content": [
+      "- Los proveedores que presten el servicio de acceso al internet o de transmisión de datos por redes",
+      "de  telecomunicaciones,  no  serán  responsables  de  la transacción  de  comercio  electrónico  realizada  por  el",
+      "usuario de los bienes o servicios que éste adquiera, ni por la información transmitida, ni su contenido, salvo que",
+      "ellos mismos hayan originado la transmisión, modificado los datos o seleccionado los datos, o a los destinatarios",
+      "de estos.",
+      "Obligaciones de los proveedores"
+    ]
+  },
+  {
+    "number": "Art.  25.",
+    "content": [
+      "-  Los  proveedores  de  bienes  y  servicios  estarán  obligados  a  mantener  de  manera  gratuita,",
+      "permanente,  actualizada  y  de  fácil  acceso  en  los  medios  electrónicos  en  que  comercialicen  sus  bienes  y",
+      "servicios, al menos la siguiente información:",
+      "a)   Nombre  o  razón  social,  domicilio,  de  ser  aplicable  la  dirección  de  uno  de  sus  establecimientos",
+      "permanentes en El Salvador, dirección de correo electrónico, número de teléfono y cualquier otro dato",
+      "que permita establecer con él una comunicación directa y efectiva.",
+      "b)   El Número de Identificación Tributaria.",
+      "c)   En el caso que su actividad estuviese sujeta a un régimen de autorización administrativa previa, los",
+      "datos relativos a dicha autorización y el nombre de la entidad competente encargada de su supervisión.",
+      "d)   Si ejerce una profesión regulada, deberá indicar el número de autorización para ejercer la profesión",
+      "otorgada por la entidad competente y el nombre de la misma.",
+      "Conservación de los mensajes de datos"
+    ]
+  },
+  {
+    "number": "Art.  26.",
+    "content": [
+      "- Los proveedores de bienes y servicios están obligados a conservar la información por el plazo que",
+      "de acuerdo a la normativa aplicable al giro de su actividad les corresponda.",
+      "CAPÍTULO FINAL",
+      "APLICACIÓN GRADUAL DEL COMERCIO ELECTRÓNICO ENTRE EL ESTADO Y USUARIOS"
+    ]
+  },
+  {
+    "number": "Art.  27.",
+    "content": [
+      "- El Estado de forma gradual procurará poner a disposición de los usuarios, sin perjuicio de los",
+      "pagos  que  deban  realizarse  cuando  corresponda,  las herramientas  tecnológicas  que  permitan  que  los",
+      "administrados  realicen  los  trámites  en  línea,  reciban  contestación  de la misma forma,  reciban  documentos",
+      "debidamente certificados; además que puedan acceder a la información emanada por cada institución pública",
+      "en cualquier momento, excepto aquella que tenga carácter reservado de conformidad a lo establecido en la Ley",
+      "de Acceso a la Información Pública; igualmente, procurará el uso de dichas herramientas en los procesos de",
+      "compras públicas como una forma de facilitar y agilizar los mismos.",
+      "Supletoriedad"
+    ]
+  },
+  {
+    "number": "Art.  28.",
+    "content": [
+      "-  En  todo  lo  que  no  estuviere  regulado  en  la  presente  ley  se  aplicará  supletoriamente  las",
+      "disposiciones de los tratados o convenios internacionales, así como lo dispuesto en otras leyes vigentes.",
+      "Vigencia"
+    ]
+  },
+  {
+    "number": "Art.  29.",
+    "content": [
+      "- La presente ley entrará en vigencia un año después de su publicación en el Diario Oficial.",
+      "DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los treinta y un días del mes",
+      "de octubre del año dos mil diecinueve.",
+      "MARIO ANTONIO PONCE LÓPEZ,",
+      "PRESIDENTE.",
+      "NORMAN NOEL QUIJANO GONZÁLEZ,",
+      "PRIMER VICEPRESIDENTE.",
+      "GUILLERMO ANTONIO GALLEGOS NAVARRETE,",
+      "SEGUNDO VICEPRESIDENTE.",
+      "YANCI GUADALUPE URBINA GONZÁLEZ,",
+      "TERCERA VICEPRESIDENTA.",
+      "ALBERTO ARMANDO ROMERO RODRÍGUEZ,",
+      "CUARTO VICEPRESIDENTE.",
+      "REYNALDO ANTONIO LÓPEZ CARDOZA,",
+      "PRIMER SECRETARIO.",
+      "RODOLFO ANTONIO PARKER SOTO,",
+      "SEGUNDO SECRETARIO.",
+      "NORMA CRISTINA CORNEJO AMAYA,",
+      "TERCERA SECRETARIA.",
+      "PATRICIA ELENA VALDIVIESO DE GALLARDO,",
+      "CUARTA SECRETARIA.",
+      "LORENZO RIVAS ECHEVERRÍA,",
+      "QUINTO SECRETARIO.",
+      "MARIO MARROQUÍN MEJÍA,",
+      "SEXTO SECRETARIO.",
+      "NOTA;"
+    ]
+  },
+  {
+    "number": "Art.  97",
+    "content": [
+      "inciso tercero del Reglamento Interior de este Órgano del",
+      "Estado,  se  hace  constar  que  el  presente  Decreto  fue  devuelto  con  observaciones  por  el  Presidente  de  la",
+      "República, el 18 de noviembre del año 2019, habiendo sido éstas aceptadas parcialmente por la Asamblea"
+    ]
+  },
+  {
+    "number": "Art.  137",
+    "content": [
+      "inciso tercero de la",
+      "Constitución de la República.",
+      "DIPUTADO MARIO MARROQUIN MEJÍA,",
+      "SECRETARIO DIRECTIVO.",
+      "CASA PRESIDENCIAL: San Salvador, a los seis días del mes de febrero del año dos mil veinte.",
+      "PUBLÍQUESE,",
+      "NAYIB ARMANDO BUKELE ORTEZ,",
+      "PRESIDENTE DE LA REPÚBLICA.",
+      "MIGUEL ÁNGEL CORLETO UREY,",
+      "VICEMINISTRO DE ECONOMIA,",
+      "ENCARGADO DEL DESPACHO."
+    ]
+  }
+]
